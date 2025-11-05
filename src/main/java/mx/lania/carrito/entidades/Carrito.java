@@ -4,11 +4,33 @@ import java.time.LocalDateTime;
 import java.util.List;
 import java.util.UUID;
 
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.OneToMany;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name = "carritos")
 public class Carrito {
+
+    @Id
+    @Column(name = "id_carrito")
+    @GeneratedValue(strategy = GenerationType.UUID)
     private UUID idCarrito;
-    private UUID idUsuario;
+
+    @Column(name = "id_cliente", nullable = false)
+    private UUID idCliente;
+
+    @Column(name = "fecha_creacion")
     private LocalDateTime creacion;
+
+    @Column(name = "fecha_actualizacion")
     private LocalDateTime actualizacion;
+    
+    @OneToMany(mappedBy = "carrito")
     private List<DetalleCarrito> items;
 
     public UUID getIdCarrito() {
@@ -19,12 +41,12 @@ public class Carrito {
         this.idCarrito = idCarrito;
     }
 
-    public UUID getIdUsuario() {
-        return idUsuario;
+    public UUID getIdCliente() {
+        return idCliente;
     }
 
-    public void setIdUsuario(UUID idUsuario) {
-        this.idUsuario = idUsuario;
+    public void setIdCliente(UUID idUsuario) {
+        this.idCliente = idUsuario;
     }
 
     public LocalDateTime getCreacion() {

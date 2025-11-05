@@ -3,11 +3,27 @@ package mx.lania.carrito.entidades;
 import java.math.BigDecimal;
 import java.util.UUID;
 
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name = "detalles_carritos")
 public class DetalleCarrito {
+    @Id
+    @Column(name = "id_detalle_carrito")
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long idDetalleCarrito;
+    @Column(name = "id_carrito", nullable = false)
     private UUID idCarrito;
+    @Column(name = "id_producto", nullable = false)
     private Long idProducto;
+    @Column(name = "cantidad", nullable = false)
     private Integer cantidad;
+    @Column(name = "precio", nullable = false)
     private BigDecimal precio;
 
     public Long getIdDetalleCarrito() {
