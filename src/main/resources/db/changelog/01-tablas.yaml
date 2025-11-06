@@ -1,0 +1,191 @@
+databaseChangeLog:
+- changeSet:
+    id: 1762455314570-1
+    author: jaguilar
+    changes:
+    - createTable:
+        tableName: CARRITOS
+        columns:
+        - column:
+            constraints:
+              nullable: false
+              primaryKey: true
+              primaryKeyName: CARRITOS_PK
+            name: ID_CARRITO
+            type: UUID
+        - column:
+            name: FECHA_ACTUALIZACION
+            type: TIMESTAMP
+        - column:
+            name: FECHA_CREACION
+            type: TIMESTAMP
+        - column:
+            constraints:
+              nullable: false
+            name: ID_CLIENTE
+            type: UUID
+- changeSet:
+    id: 1762455314570-2
+    author: jaguilar
+    changes:
+    - createTable:
+        tableName: CLIENTES
+        columns:
+        - column:
+            autoIncrement: true
+            constraints:
+              nullable: false
+              primaryKey: true
+              primaryKeyName: CLIENTES_PK
+            name: ID_CLIENTE
+            type: BIGINT
+        - column:
+            name: FECHA_ACTUALIZACION
+            type: TIMESTAMP
+        - column:
+            name: FECHA_CREACION
+            type: TIMESTAMP
+        - column:
+            constraints:
+              nullable: false
+            name: ID_USUARIO
+            type: UUID
+        - column:
+            constraints:
+              nullable: false
+            name: NOMBRES
+            type: VARCHAR(100)
+        - column:
+            constraints:
+              nullable: false
+            name: APELLIDOS
+            type: VARCHAR(200)
+- changeSet:
+    id: 1762455314570-3
+    author: jaguilar
+    changes:
+    - createTable:
+        tableName: DETALLES_CARRITOS
+        columns:
+        - column:
+            autoIncrement: true
+            constraints:
+              nullable: false
+              primaryKey: true
+              primaryKeyName: DETALLES_CARRITOS_PK
+            name: ID_DETALLE_CARRITO
+            type: BIGINT
+        - column:
+            constraints:
+              nullable: false
+            name: CANTIDAD
+            type: INT
+        - column:
+            constraints:
+              nullable: false
+            name: PRECIO
+            type: numeric(38, 2)
+        - column:
+            constraints:
+              nullable: false
+            name: ID_PRODUCTO
+            type: BIGINT
+        - column:
+            name: ID_CARRITO
+            type: UUID
+- changeSet:
+    id: 1762455314570-4
+    author: jaguilar
+    changes:
+    - createTable:
+        tableName: PRODUCTOS
+        columns:
+        - column:
+            autoIncrement: true
+            constraints:
+              nullable: false
+              primaryKey: true
+              primaryKeyName: PRODUCTOS_PK
+            name: ID_PRODUCTO
+            type: BIGINT
+        - column:
+            constraints:
+              nullable: false
+            name: CANTIDAD_DISPONIBLE
+            type: INT
+        - column:
+            name: PRECIO
+            type: numeric(38, 2)
+        - column:
+            name: FECHA_ACTUALIZACION
+            type: TIMESTAMP
+        - column:
+            name: FECHA_CREACION
+            type: TIMESTAMP
+        - column:
+            constraints:
+              nullable: false
+            name: NOMBRE
+            type: VARCHAR(100)
+        - column:
+            name: DESCRIPCION
+            type: VARCHAR(255)
+- changeSet:
+    id: 1762455314570-5
+    author: jaguilar
+    changes:
+    - createTable:
+        tableName: USUARIOS
+        columns:
+        - column:
+            constraints:
+              nullable: false
+              primaryKey: true
+              primaryKeyName: USUARIOS_PK
+            name: ID_USUARIO
+            type: UUID
+        - column:
+            constraints:
+              nullable: false
+            name: ACTIVO
+            type: BOOLEAN
+        - column:
+            name: ULTIMO_ACCESO
+            type: TIMESTAMP WITH TIME ZONE
+        - column:
+            constraints:
+              nullable: false
+            name: EMAIL
+            type: VARCHAR(150)
+        - column:
+            constraints:
+              nullable: false
+            name: PASSWORD_HASH
+            type: VARCHAR(255)
+- changeSet:
+    id: 1762455314570-6
+    author: jaguilar
+    changes:
+    - createIndex:
+        associatedWith: ''
+        columns:
+        - column:
+            name: ID_CARRITO
+        indexName: DETALLES_CARRITOS_ID_CARRITO_INDEX
+        tableName: DETALLES_CARRITOS
+- changeSet:
+    id: 1762455314570-7
+    author: jaguilar
+    changes:
+    - addForeignKeyConstraint:
+        baseColumnNames: ID_CARRITO
+        baseTableName: DETALLES_CARRITOS
+        constraintName: DETALLES_CARRITOS_CARRITOS_FK
+        deferrable: false
+        initiallyDeferred: false
+        onDelete: NO ACTION
+        onUpdate: NO ACTION
+        referencedColumnNames: ID_CARRITO
+        referencedTableName: CARRITOS
+        validate: true
+
