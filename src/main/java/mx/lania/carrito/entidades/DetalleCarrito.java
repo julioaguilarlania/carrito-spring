@@ -7,7 +7,7 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-import jakarta.persistence.OneToMany;
+import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
 
 @Entity
@@ -17,7 +17,7 @@ public class DetalleCarrito {
     @Column(name = "id_detalle_carrito")
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long idDetalleCarrito;
-    @OneToMany
+    @ManyToOne
     private Carrito carrito;
     @Column(name = "id_producto", nullable = false)
     private Long idProducto;
