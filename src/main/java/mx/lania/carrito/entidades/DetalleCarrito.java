@@ -8,6 +8,7 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 
 @Entity
@@ -17,8 +18,8 @@ public class DetalleCarrito {
     @Column(name = "id_detalle_carrito")
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long idDetalleCarrito;
-    @Column(name = "id_carrito", nullable = false)
-    private UUID idCarrito;
+    @OneToMany
+    private Carrito carrito;
     @Column(name = "id_producto", nullable = false)
     private Long idProducto;
     @Column(name = "cantidad", nullable = false)
@@ -34,12 +35,12 @@ public class DetalleCarrito {
         this.idDetalleCarrito = idDetalleCarrito;
     }
 
-    public UUID getIdCarrito() {
-        return idCarrito;
+    public Carrito getCarrito() {
+        return carrito;
     }
 
-    public void setIdCarrito(UUID idCarrito) {
-        this.idCarrito = idCarrito;
+    public void setIdCarrito(Carrito carrito) {
+        this.carrito = carrito;
     }
 
     public Long getIdProducto() {
