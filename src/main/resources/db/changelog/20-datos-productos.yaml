@@ -1,0 +1,12 @@
+databaseChangeLog:
+  - changeSet:
+      author: jaguilar
+      id: datos-productos-1
+      loadData:
+        tableName: PRODUCTOS
+        file: productos_datos.csv
+        relativeToChangelogFile: true
+        columns:
+          - column:
+              header: ID_PRODUCTO
+              type: skip

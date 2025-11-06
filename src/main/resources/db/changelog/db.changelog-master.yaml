@@ -1,4 +1,7 @@
 databaseChangeLog:
   - include:
-      file: 01-tablas.yaml
+      file: 10-tablas.yaml
+      relativeToChangelogFile: true
+  - include:
+      file: 20-datos-productos.yaml
       relativeToChangelogFile: true

@@ -1,0 +1,983 @@
+id_producto,nombre,descripcion,fecha_creacion,fecha_actualizacion,precio,cantidad_disponible
+1,Multicolored LED Strip Lights,Flexible LED lights for creative home lighting designs.,2025-02-24,2025-07-11,29.99,7
+1,Compact Umbrella,Portable and lightweight umbrella for protection from rain.,2025-02-23,2025-07-25,12.99,19
+1,Scented Candles,Set of three aromatic candles with various scents.,2025-03-20,2025-09-26,19.99,10
+1,Energy Protein Bars,Nutritious bars packed with protein for energy,2025-04-19,2025-07-02,2.29,36
+1,Mango Chunks,Frozen mango chunks for smoothies or snacking.,2025-01-25,2025-09-07,4.89,53
+1,Coconut Chia Pudding,Creamy chia pudding made with coconut milk and topped with mango.,2025-10-16,2025-10-07,3.49,53
+1,Organic Lentil Soup,A hearty soup made with organic lentils and vegetables.,2025-09-03,2025-10-29,4.99,92
+1,Marinara Parmesan Baked Ziti,Ziti pasta baked with marinara and parmesan cheese,2025-10-18,2025-09-07,8.49,23
+1,Electric Wine Opener,Rechargeable electric wine opener for effortless uncorking.,2025-03-31,2025-09-22,29.99,63
+1,Wireless Earbud Silicone Covers,Soft silicone earbud covers for comfort and fit.,2025-10-07,2025-08-11,9.99,86
+1,Italian Sausage and Peppers,A flavorful blend of Italian sausage with sautéed peppers and onions.,2025-02-03,2025-08-21,8.99,68
+1,Rice Noodles,"Thin rice noodles, ideal for stir-fries and soups.",2025-08-27,2025-07-30,3.49,1
+1,Sweet Potato and Chickpea Bowl,A nourishing bowl of sweet potatoes and chickpeas with spices.,2024-12-23,2025-09-28,6.49,11
+1,Frozen Berry Blend,A mix of frozen berries for smoothies or desserts,2025-05-15,2025-10-26,4.99,53
+1,Coconut Bowls Set,Handmade eco-friendly bowls made from real coconuts.,2024-11-12,2025-11-03,22.99,7
+1,Crispy Tofu Bites,,2025-04-19,2025-08-08,4.99,84
+1,Canned Black Beans,"Delicious and hearty black beans, great for soups or salads.",2025-03-04,2025-09-01,1.29,46
+1,Yoga Blocks,Set of two yoga blocks for increased stability and support.,2025-03-20,2025-07-25,29.99,83
+1,Zesty Garlic Hummus,Creamy chickpea dip infused with zesty garlic flavor.,2024-12-29,2025-08-04,3.99,60
+1,Cinnamon Sugar Tortilla Chips,"Crispy chips with a sweet twist, perfect for dipping.",2025-10-15,2025-07-28,3.29,65
+1,Reusable Coffee Filter,Eco-friendly coffee filter for brewing.,2025-02-28,2025-10-25,10.99,11
+1,Basmati Rice,"Aromatic long-grain basmati rice, perfect for curries.",2024-11-29,2025-07-25,5.79,89
+1,Pepperoni Pizza Roll-Ups,"Savory pizza filled with pepperoni and cheese, ready to microwave.",2025-05-01,2025-09-24,5.99,82
+1,Honey Mustard Chicken Breasts,Marinated chicken breasts coated in a sweet honey mustard glaze.,2025-05-18,2025-08-16,8.99,46
+1,Smart Water Bottle with Hydration Reminder,Bottle that tracks your water intake and reminds you to drink.,2024-12-27,2025-07-25,39.99,44
+1,Peach Salsa,Sweet and spicy salsa made with fresh peaches.,2025-05-19,2025-08-04,3.29,32
+1,Smart Doorbell,Wi-Fi enabled doorbell with HD camera and two-way audio.,2025-04-13,2025-09-23,119.99,70
+1,Vegan Taco Seasoning,Spice blend for creating flavorful vegan taco filling.,2024-12-16,2025-08-19,2.49,82
+1,Heated Throw Blanket,Soft blanket that provides warmth with adjustable settings.,2025-08-30,2025-09-18,49.99,56
+1,Spinach Artichoke Dip,"A delicious creamy dip featuring spinach and artichokes, perfect for parties.",2025-03-20,2025-09-14,4.99,59
+1,Portable Pet Bathing Tool,Handheld sprayer designed for washing pets easily.,2025-07-10,2025-07-17,29.99,22
+1,Chili Lime Corn Chips,Crunchy corn chips flavored with chili and lime for a zesty kick.,2025-02-27,2025-07-30,2.79,71
+1,Thai Red Curry Paste,Spicy and flavorful curry paste for authentic Thai dishes.,2025-10-14,2025-09-22,3.99,6
+1,Almond Butter Cups,"Rich chocolate cups filled with almond butter, a delicious treat.",2025-06-16,2025-08-19,3.29,18
+1,Tailored Blazer,Sharp tailored blazer perfect for office wear and professional events.,2025-01-12,2025-08-17,99.99,56
+1,Pumpkin Pancake Mix,Easy-to-make pancake mix with pumpkin spice flavor.,2025-06-24,2025-10-05,4.19,96
+1,Coconut Cashew Yogurt,"Creamy yogurt made with coconut and cashews, dairy-free.",2025-09-18,2025-07-10,1.99,5
+1,Cable Knit Beanie,A cozy cable knit beanie to keep your head warm in winter.,2025-05-09,2025-07-06,19.99,20
+1,Creamy Ranch Dressing,Classic ranch dressing for salads and dipping.,2025-07-26,2025-08-22,2.49,81
+1,Juice Extractor,Efficient juicer for fresh fruit and vegetable juices.,2024-11-17,2025-10-07,99.99,1
+1,Cotton Quilted Throw Blanket,Cozy throw blanket perfect for adding warmth to your home.,2025-10-26,2025-08-20,39.99,6
+1,Organic Cucumber,Fresh organic cucumber perfect for salads or snacking.,2025-03-01,2025-10-05,1.29,69
+1,Sesame Oil,Nutty-scented oil for stir-fry and marinades.,2025-09-24,2025-08-09,3.99,71
+1,Popcorn Chicken,"Crispy chicken bites, perfect for dipping.",2025-04-13,2025-09-15,6.49,56
+1,Backpacking Tent,Lightweight and durable tent for camping trips.,2025-03-23,2025-08-06,109.99,31
+1,Mushroom Soup (canned),Creamy soup full of rich mushroom flavor.,2025-03-28,2025-08-08,2.49,51
+1,Crispy Potato Tots,"Golden brown potato tots, crispy on the outside and fluffy inside.",2025-06-12,2025-07-11,3.69,5
+1,Electric Meat Grinder,Powerful grinder for making sausage and burgers at home.,2025-09-17,2025-11-02,89.99,58
+1,Chino Shorts,Classic chino shorts in a versatile color for summer adventures.,2025-03-01,2025-10-31,34.99,22
+1,Toilet Paper (12 rolls),Soft and strong toilet paper for everyday use.,2025-08-01,2025-09-08,8.99,31
+1,Folding Backpack Chair,Versatile chair that easily folds up for carrying.,2025-09-01,2025-10-17,49.99,73
+1,Lentil Soup (canned),Hearty lentil soup for a quick meal.,2025-08-31,2025-10-18,1.99,90
+1,Chic Jumpsuit,An elegant jumpsuit that can be dressed up or down.,2024-12-05,,89.99,91
+1,Rice Pilaf Mix,Quick and easy rice pilaf mix for side dishes.,2025-03-30,2025-07-29,2.59,95
+1,Portable Camping Shower,Convenient shower system for camping and outdoor activities.,2025-07-29,2025-07-11,39.99,98
+1,Cinnamon Roll Kit,Everything you need to make melt-in-your-mouth cinnamon rolls at home.,2025-10-29,2025-11-05,6.89,26
+1,Adjustable Skipping Rope,Durable skipping rope with adjustable length for workouts.,2025-08-29,2025-07-19,12.99,54
+1,Nut Mix,A blend of mixed nuts for snacking.,2025-05-13,2025-09-26,5.99,44
+1,Men's Waterproof Hiking Boots,Durable boots designed for outdoor hiking and activities.,2025-08-26,2025-08-12,89.99,68
+1,Yoga Mat,Non-slip yoga mat for optimal grip and comfort.,2025-06-02,2025-10-02,25,59
+1,Thyme,"Fresh thyme, perfect for seasoning dishes.",2025-07-03,2025-08-28,2.49,87
+1,Non-Stick Grill Pan,Heavy-duty grill pan for indoor grilling.,2025-06-03,2025-08-06,39.99,50
+1,Coconut Chia Seed Pudding,"Ready-to-eat chia seed pudding made with coconut milk, perfect for breakfast or dessert.",2024-11-20,2025-10-12,2.99,36
+1,Pasta Sauce Mix,Just add water for a quick pasta sauce.,2025-04-30,2025-08-19,1.29,82
+1,Handmade Leather Wallet,High-quality leather wallet with multiple compartments.,2025-02-17,,49.99,73
+1,Electric Stool Heater,Heated stool cover for extra comfort during winter.,2025-03-01,2025-09-05,29.99,98
+1,Vegetable Samosas,Crispy pastry filled with seasoned vegetables.,2025-05-29,2025-09-09,4.99,90
+1,High-Waisted Skirt,"Chic high-waisted skirt, perfect for professional or casual settings.",2025-06-26,2025-08-26,34.99,49
+1,Sweet Potato Fries,"Crispy sweet potato fries, a delicious side dish.",2025-06-16,2025-07-16,3.99,17
+1,Travel Pillow with Memory Foam,Ergonomically designed neck pillow for comfortable travel.,2025-07-22,2025-07-28,29.99,87
+1,Sculpting Kit,Complete sculpting tools for artists.,2025-06-14,2025-10-20,25.99,38
+1,Whole Grain Cereal,"Healthy whole grain cereal, great for breakfast.",2025-03-20,2025-08-16,3.49,57
+1,Chocolate Avocado Pudding,Rich and creamy pudding made with ripe avocados and cocoa.,2025-02-02,2025-08-20,4.99,49
+1,Adjustable Dog Harness,Comfortable and adjustable harness for dogs.,2025-09-11,2025-09-11,24.99,90
+1,Chocolate Chip Cookie Dough,Ready-to-bake cookie dough packed with chocolate chips.,2025-06-22,2025-08-19,5.49,72
+1,Classic Cheesecake Mix,"A simple, no-bake cheesecake mix to create your own delicious cheesecake.",2025-10-11,2025-07-30,4.99,49
+1,Corn Tortillas,"Soft and warm corn tortillas, perfect for tacos and burritos.",2024-11-10,2025-08-17,2.49,24
+1,Mini Meatballs,Frozen mini meatballs that are great as a snack or in pasta dishes.,2025-07-30,2025-08-10,5.99,11
+1,Vegetable Stir-Fry Sauce,Savory sauce for vegetable and meat stir-fries.,2025-04-25,2025-07-11,3.49,36
+1,Throw Pillow Covers,Set of decorative pillow covers to enhance your home decor.,2025-04-20,2025-09-03,22.99,1
+1,Dual Function Electric Skillet,"Skillet that can fry, grill, and sauté with ease.",2024-11-10,2025-07-07,59.99,51
+1,Weighted Blanket,Therapeutic weighted blanket for better sleep.,2025-04-18,2025-08-28,79.99,72
+1,Collapsible Pet Dog Bowl,Travel-friendly dog bowl that is collapsible for easy storage.,2025-10-20,2025-07-03,9.99,63
+1,Smart Plug,Wi-Fi enabled plug for controlling devices from your smartphone.,2025-06-09,2025-08-26,19.99,34
+1,Cold Brew Coffee Maker,Brews coffee with a smooth flavor without bitterness.,2025-09-11,2025-07-17,34.99,43
+1,Vegetarian Stir Fry Sauce,Flavorful sauce perfect for stir-frying vegetables and tofu.,2025-08-06,2025-10-01,2.49,10
+1,Cabbage,"Fresh green cabbage, great for salads and slaws.",2025-10-11,2025-08-19,1.29,62
+1,Tomato Paste,"Concentrated tomato paste, great for sauces.",2025-06-03,2025-08-27,1.29,14
+1,LED Under Cabinet Lighting,Easy-to-install lights to brighten kitchen cabinets and workspaces.,2025-05-11,2025-08-16,29.99,50
+1,Vegetable Curry,A hearty vegetable curry for a quick and satisfying meal.,2025-06-11,2025-09-23,5.99,4
+1,Stylish Wireless Earbuds,True wireless earbuds with excellent sound quality.,2024-11-19,2025-10-13,59.99,66
+1,Herb Garlic Butter,"A flavorful garlic butter blend, perfect for cooking or baking.",2025-05-02,2025-07-04,3.99,62
+1,Chipotle Black Bean Salad,"A zesty salad with black beans, corn, and chipotle dressing.",2025-06-28,2025-09-02,3.29,19
+1,Smartphone Photography Ring Light,Portable ring light that enhances your photos with perfect lighting.,2025-04-02,2025-07-13,29.99,80
+1,Spicy Vegetable Sushi Rolls,Vegan sushi filled with spicy vegetables and avocado.,2025-07-27,2025-08-02,8.49,48
+1,Almond Flour Pancake Mix,Gluten-free pancake mix made with almond flour.,2024-12-04,2025-09-29,5.99,83
+1,Motion Sensor Light,Battery-operated motion sensor light for safety.,2024-11-10,2025-07-27,19.99,86
+1,Pumpkin Spice Granola,Crunchy granola with pumpkin spice flavor.,2024-11-28,2025-10-16,4.99,42
+1,Thyme,"Fresh thyme, perfect for seasoning dishes.",2025-01-11,2025-10-27,2.49,16
+1,Habanero Hot Sauce,Fiery hot sauce made with fresh habaneros and spices.,2025-02-15,2025-10-06,3.79,19
+1,Pet Grooming Gloves,Gentle grooming gloves for shedding pets.,2025-05-22,2025-07-14,9.99,26
+1,Sesame Ginger Dressing,"Tangy dressing perfect for salads and marinades, with sesame and ginger flavors.",2025-08-12,2025-11-04,4.09,80
+1,Coconut Cream,"Rich cream extracted from coconut milk, ideal for desserts.",2025-07-27,2025-07-17,2.99,2
+1,Luxury Bathrobe,Soft and cozy bathrobe perfect for relaxing at home.,2025-04-21,2025-09-29,49.99,78
+1,Peanut Butter Cookies,Soft and chewy cookies made with creamy peanut butter.,2025-04-20,2025-07-20,3.49,66
+1,Artisan Bread,,2025-04-06,2025-10-04,4.59,93
+1,Italian Sausage Links,Savory sausage links seasoned with Italian spices.,2025-11-03,2025-07-28,5.99,1
+1,Slim Fit Chinos,Comfortable slim fit chinos for a polished look.,2025-02-14,2025-10-21,54.99,46
+1,Graphic Tee,Soft cotton graphic tee available in various designs.,2025-02-18,2025-07-18,19.99,82
+1,Baked Falafel Balls,"Frozen falafel balls made from chickpeas and herbs, perfect for quick meals or salads.",2025-10-01,2025-08-21,5.99,98
+1,Collapsible Pet Dog Bowl,Travel-friendly dog bowl that is collapsible for easy storage.,2025-10-21,2025-09-28,9.99,93
+1,Radish Chips,"Crispy baked radish chips, a healthy snack alternative.",2025-02-15,2025-10-25,2.89,81
+1,Spicy Tuna Salad,"Ready-to-eat tuna salad with a spicy kick, perfect for sandwiches.",2025-10-14,2025-08-14,4.49,71
+1,Maple Almond Butter,,2025-08-20,,5.49,20
+1,Whole Roasted Chicken,,2025-09-30,2025-07-27,9.99,1
+1,Pistachios,"Roasted pistachios, a healthy and tasty snack.",2025-04-29,2025-09-18,6.99,43
+1,Puffed Rice Cake,Low-calorie rice cake for snacks.,2025-01-31,2025-10-10,2.49,75
+1,Cranberry Lime Sparkling Water,Refreshing sparkling water infused with cranberry and lime flavors.,2024-11-22,2025-09-28,1.5,73
+1,Tahini,Creamy tahini made from ground sesame seeds.,2024-12-12,2025-09-17,5.49,21
+1,Antique Style Clock,Nostalgic clock that adds charm to any room.,2025-08-18,2025-10-28,39.99,74
+1,Baked Mac and Cheese,Creamy macaroni and cheese baked to perfection.,2025-06-03,2025-09-05,5.99,34
+1,Butternut Squash Ravioli,"Delicate ravioli filled with roasted butternut squash and spices, perfect with a sage butter sauce.",2025-07-14,2025-08-02,6.29,80
+1,Fall-Themed Table Runner,Decorative table runner perfect for autumn gatherings.,2025-07-25,2025-09-17,19.99,90
+1,Apple Juice,"Refreshing apple juice, 100% juice with no added sugar.",2025-04-29,2025-09-23,3.29,6
+1,Kids Tablet,Durable tablet designed for kids with parental controls.,2025-08-15,2025-09-16,129.99,83
+1,Pet Waterer with Filtration,,2024-11-30,2025-08-22,39.99,26
+1,Handmade Wooden Utensil Set,Unique handcrafted utensils for cooking and serving.,2025-01-27,2025-09-15,24.99,97
+1,Sun-Dried Tomatoes,Dried tomatoes packed with deep flavor for salads and pasta.,2025-05-12,2025-10-13,3.99,68
+1,Pet Training Clicker,Simple tool to train your pet with positive reinforcement.,2024-11-23,2025-09-16,5.99,78
+1,LED Desk Lamp,Dimmable LED desk lamp with USB charging port.,2025-01-06,2025-10-29,35,47
+1,Handcrafted Wooden Jewelry Box,Beautifully crafted jewelry box with compartments for storage.,2024-12-18,2025-08-23,39.99,77
+1,Almond Butter Crunch Bar,Nutritious snack bar made with almond butter and protein.,2025-07-18,,1.99,44
+1,Baby Monitor,Video baby monitor with night vision.,2025-10-31,2025-10-07,79.99,59
+1,Veggie Burger Patties,Delicious veggie burger patties for grilling or frying.,2025-04-07,2025-10-24,5.99,77
+1,Lemon Herb Quinoa,"Fluffy quinoa mixed with lemon zest and herbs, a perfect side.",2025-05-20,2025-08-19,3.49,41
+1,LED Table Lamp,Modern LED table lamp with touch control.,2025-03-07,2025-09-30,29.99,54
+1,Chocolate Coconut Protein Balls,No-bake protein balls with chocolate and coconut flavors.,2025-03-20,2025-08-24,2.99,87
+1,Coconut Curry Lentil Soup,"A hearty soup made with lentils, coconut milk, and a blend of spices for a tropical flavor.",2024-12-29,2025-07-29,3.99,36
+1,Turmeric Ginger Tea,A soothing tea blend with turmeric and ginger for wellness.,2025-02-16,2025-07-09,3.29,16
+1,Cranberry Orange Oatmeal,Instant oatmeal flavored with cranberries and orange zest for breakfast.,2024-12-21,2025-08-22,2.49,68
+1,Running Shorts,Lightweight and breathable running shorts for your workouts.,2025-08-27,2025-07-23,34.99,54
+1,Applewood Smoked Bacon,Delicious bacon with a rich applewood smoked flavor.,2025-03-13,2025-10-27,6.99,61
+1,Savory Snack Mix,"A mix of nuts, pretzels, and crackers, seasoned just right for snacking.",2024-11-15,2025-09-18,4.49,88
+1,Maple Bacon Potato Chips,Savory potato chips with a hint of maple sweetness and crispy bacon flavor.,2025-02-08,2025-07-01,2.89,35
+1,DIY Organic Gardening Kit,Complete kit for starting your own organic garden.,2025-06-09,2025-09-13,39.99,24
+1,Children's Educational Workbook,Activity workbook for early learning and fun.,2025-04-23,2025-10-03,12.99,52
+1,Ethical Wool Scarf,A warm and sustainable wool scarf for chilly days.,2025-09-26,2025-07-22,29.99,20
+1,Frozen Berry Blend,A mix of frozen berries for smoothies or desserts,2025-05-20,2025-09-20,4.99,38
+1,LED Desk Lamp,Dimmable LED desk lamp with USB charging port.,2025-01-18,2025-08-13,35,15
+1,Screen Cleaning Kit,Safe cleaning solution and tools for electronics screens.,2024-11-11,2025-10-30,15.99,29
+1,Cranberry Lime Sparkling Water,Refreshing sparkling water infused with cranberry and lime flavors.,2025-05-04,2025-09-13,1.5,84
+1,Spinach Artichoke Dip,"A delicious creamy dip featuring spinach and artichokes, perfect for parties.",2025-01-13,2025-07-31,4.99,81
+1,Lentil Vegetable Stew,"Hearty stew made with lentils and mixed vegetables, vegan-friendly.",2025-04-11,2025-10-31,4.49,9
+1,Organic Coconut Sugar,"A natural sweetener made from coconut sap, a healthier alternative to sugar.",2025-03-13,2025-10-09,4.19,55
+1,Pumpkin Pie Spice,A blend of spices that brings the taste of fall to your baked goods.,2025-09-19,2025-09-27,2.99,58
+1,Spicy Chicken Wings,"Wide range of flavored wings, perfect for parties or casual snacking.",2025-05-03,2025-10-28,9.99,6
+1,Garlic Butter Shrimp,"Frozen shrimp sautéed in garlic butter, ready to thaw and serve over pasta or rice.",2025-10-12,2025-11-02,8.99,90
+1,Almond Butter Cups,,2025-10-08,2025-10-02,3.29,14
+1,Honey Nut Cheerios,Classic cereal made with whole grains and honey.,2025-09-14,2025-10-23,4.29,32
+1,Spicy Salsa Verde,"Green salsa with a spicy kick, great for dipping.",2025-04-22,2025-09-24,3.49,21
+1,Baked Mac and Cheese,,2025-05-01,,5.99,21
+1,Portable Massage Gun,Personal massager for muscle recovery.,2024-12-17,2025-09-28,79.99,26
+1,Body Pillow Case,Soft and breathable pillowcase for body pillows.,2024-11-16,2025-07-18,14.99,86
+1,Peach Halves (canned),"Sweet peach halves packed in juice, great for desserts.",2025-03-24,2025-09-30,2.49,63
+1,Vegetable Potstickers,"Delicious vegetable dumplings, perfect for steaming or frying.",2025-03-30,2025-07-29,5.99,90
+1,Weighted Blanket for Adults,A calming blanket that provides gentle pressure for relaxation.,2025-08-25,2025-09-05,59.99,8
+1,Smart Light Bulbs,,2025-10-31,2025-07-02,34.99,3
+1,Chicken Fajita Kit,All ingredients included for delicious chicken fajitas.,2025-07-25,2025-09-25,8.99,1
+1,Green Smoothie Mix,A convenient powder mix combining greens and fruits for smoothies.,2024-12-27,,5.99,12
+1,Rechargeable Hand Warmer,,2025-05-14,2025-07-23,22.99,35
+1,Vegan Tacos,Frozen vegan tacos filled with plant-based protein and spices.,2025-08-20,2025-09-05,7.49,55
+1,Portable USB-C Monitor,Lightweight and slim monitor ideal for dual-screen setups.,2025-02-23,2025-07-01,199.99,6
+1,Self-Cleaning Cat Litter Box,Automated litter box that cleans itself after each use.,2025-05-07,2025-09-19,199.99,77
+1,Cocktail Shaker and Mixing Glass Set,Complete set for mixing cocktails at home.,2024-11-23,2025-10-22,39.99,46
+1,Children's Gardening Set,Fun gardening tools designed specifically for kids.,2025-03-06,2025-10-06,19.99,59
+1,Beard Grooming Kit,Everything you need for maintaining a healthy beard.,2025-05-11,2025-08-16,34.99,64
+1,Indoor Grill,Electric indoor grill for quick meals.,2025-09-16,2025-07-04,59.99,2
+1,Electric Heat Pad,Microwaveable heat pad for soothing muscle aches.,2025-04-26,2025-09-04,24.99,64
+1,Garden Vegetable Chips,"Crispy chips made from assorted garden vegetables, lightly salted.",2025-03-19,2025-08-14,3.49,97
+1,Floral Wrap Top,A feminine wrap top with a beautiful floral print.,2025-11-04,2025-09-20,49.99,58
+1,Spicy BBQ Sauce,A tangy and spicy BBQ sauce that's perfect for grilling.,2025-07-21,,3.99,64
+1,Printed Maxi Skirt,A colorful printed maxi skirt for a bohemian look.,2025-06-01,2025-09-25,39.99,16
+1,Dog Frisbee Toy,Durable and soft frisbee designed for dogs to play with.,2025-08-25,2025-08-24,10.99,12
+1,Watercolor Set,Complete watercolor set with paints and brushes.,2025-05-24,2025-07-05,19.99,83
+1,Compact Dishwasher,Countertop dishwasher for small kitchens.,2025-01-05,2025-07-12,299.99,81
+1,Fettuccine Alfredo Dinner Kit,Easy meal kit for creamy fettuccine Alfredo.,2024-11-25,2025-08-25,5.49,14
+1,Salsa Verde,"Tangy green salsa made with tomatillos, perfect for tacos.",2025-07-18,,3.49,99
+1,Curried Lentil Salad,"A hearty salad with lentils, veggies, and curry dressing.",2025-03-22,2025-07-15,4.29,19
+1,Non-Stick Baking Sheets,Set of baking sheets for effortless baking.,2025-06-03,2025-09-24,29.99,44
+1,Siphon Coffee Maker,,2025-01-09,2025-07-05,49.99,78
+1,Lemon Garlic Marinade,"A zesty marinade made with lemon juice and garlic, ideal for chicken or fish.",2025-04-25,2025-10-15,4.29,57
+1,Plant Watering Spikes,Automatic watering devices for potted plants.,2025-06-26,2025-07-18,12.99,56
+1,Car Windshield Sun Shade,Protects car interior from sun damage and heat.,2025-06-02,2025-07-19,19.99,39
+1,Gluten-Free Bread,Soft and tasty gluten-free sandwich bread.,2025-07-27,2025-10-16,5.49,86
+1,Bicycle Repair Kit,Essential tools for on-the-go bike maintenance.,2025-05-23,2025-07-14,14.99,58
+1,Travel Eye Mask with Ear Plugs,Comfortable eye mask that includes noise-canceling ear plugs.,2025-02-15,2025-07-28,15.99,12
+1,Pumpkin Ice Cream,"Seasonal pumpkin ice cream, perfect for fall.",2024-12-06,2025-09-09,4.99,23
+1,Honey Almond Granola Bars,Chewy granola bars made with honey and almonds.,2025-09-06,2025-07-12,3.99,32
+1,Herb Drying Rack,Mesh drying rack for preserving herbs and flowers.,2024-11-09,2025-09-11,22.99,40
+1,Strawberry Rhubarb Jam,"A sweet and tart jam, perfect on toast or in desserts.",2025-04-18,2025-09-23,4.29,30
+1,Oatmeal Raisin Cookies,Delicious cookies packed with oats and raisins.,2025-02-21,2025-09-05,3.49,63
+1,Dried Cranberries,"Sweet and tart dried cranberries, great for salads and baking.",2025-10-16,2025-07-02,4.29,71
+1,Maple Pecan Oatmeal Cookies,Soft oatmeal cookies with maple and pecans.,2025-07-19,2025-10-05,3.99,98
+1,Avocado Oil Mayo,,2025-07-01,2025-08-24,5.29,81
+1,Italian Sausage Links,Savory sausage links seasoned with Italian spices.,2025-09-28,2025-09-14,5.99,76
+1,Fitness Jump Rope,Durable jump rope for cardio workouts.,2024-12-16,2025-07-20,15.99,82
+1,Coconut Milk Ice Cream,"Dairy-free ice cream made with coconut milk, creamy and delicious.",2025-07-26,2025-09-25,6.99,94
+1,Applewood Smoked Bacon,,2024-12-16,2025-11-02,6.99,75
+1,Hair Dryer,,2025-10-30,2025-07-23,39.99,25
+1,Electric Pressure Cooker,"Multi-function pressure cooker that can sauté, steam, and slow cook.",2025-07-12,2025-07-29,89.99,65
+1,Ski Goggles,Anti-fog ski goggles for winter sports.,2025-04-28,2025-07-19,49.99,38
+1,Crispy Potato Tots,"Golden brown potato tots, crispy on the outside and fluffy inside.",2025-07-03,2025-10-05,3.69,52
+1,Lentil Vegetable Curry,,2025-08-08,2025-07-24,4.49,93
+1,Smartphone Projector Kit,DIY kit to convert your smartphone into a mini projector.,2025-06-16,2025-07-15,24.99,40
+1,Noise-Canceling Headphones,High-quality headphones that block out external noise for immersive listening.,2025-08-25,2025-08-27,119.99,90
+1,Balsamic Fig Dressing,"A sweet and tangy dressing made with figs and balsamic vinegar, great on salads.",2025-04-17,2025-07-08,3.79,72
+1,Peach Preserves,"Sweet and fruity peach preserves, perfect for spreading on toast.",2025-08-20,2025-10-17,3.79,43
+1,Fried Rice,"Pre-cooked vegetable fried rice, just heat and serve.",2025-10-21,2025-10-10,4.29,3
+1,Self-Inflating Camping Mattress,Comfortable camping mattress that inflates automatically.,2025-09-19,2025-10-15,49.99,81
+1,Roasted Vegetable Medley,,2025-01-19,2025-08-05,3.99,41
+1,Tahini,Creamy tahini made from ground sesame seeds.,2025-06-19,2025-08-16,5.49,32
+1,Cheddar & Bacon Potato Skins,Gourmet potato skins loaded with cheddar cheese and bacon.,2025-08-25,2025-09-11,7.49,29
+1,Organic Granola Cereal,,2025-09-07,2025-09-23,5.99,7
+1,Beef Taco Skillet,A convenient meal kit for making a delicious beef taco skillet at home.,2025-07-09,2025-10-27,8.49,85
+1,Dish Rack,Collapsible dish rack for kitchen countertop use.,2025-01-08,2025-08-31,24.99,22
+1,Frozen Mixed Vegetables,"A mix of carrots, peas, and corn, easy to stir-fry.",2025-05-22,2025-08-27,1.99,90
+1,Magnetic Puzzle Board,Magnetic puzzle assembly board for kids.,2025-04-21,2025-08-13,24.99,98
+1,Protein Bar Variety Pack,A pack of assorted nut and protein bars for a quick energy boost.,2025-01-26,2025-07-26,12.99,19
+1,Organic Ramen Noodles,Quick-cooking ramen noodles made with organic wheat.,2025-03-05,2025-10-20,2.89,79
+1,Foldable Electric Scooter,Compact electric scooter for commuting and short trips.,2025-02-05,,349.99,28
+1,Cilantro Lime Rice,,2024-11-11,2025-11-04,2.99,80
+1,Noise-Canceling Earbuds,Wireless earbuds designed for immersive sound experience.,2025-10-11,2025-08-20,79.99,6
+1,Pretzel Bites,,2025-07-22,2025-10-27,4.99,92
+1,Chic Ankle Strap Heels,Stylish ankle strap heels for a classy look at any event.,2024-11-08,2025-09-16,69.99,89
+1,Dishwasher Safe Cutting Board,Eco-friendly cutting board that is safe for dishwashers.,2025-09-07,2025-10-25,22.99,19
+1,Savory Oats,"Instant oats with a savory twist, such as herbs and spices.",2025-02-15,2025-08-14,2.49,13
+1,Beef Stew Meat,Tender beef chunks for slow-cooked stews.,2024-12-05,2025-10-29,5.99,99
+1,Herbed Couscous,Quick-cooking couscous flavored with herbs and spices.,2025-07-29,2025-07-10,2.49,94
+1,Berries Medley,"A mix of fresh raspberries, blueberries, and blackberries.",2025-08-27,2025-08-30,6.99,99
+1,Vegetable Curry,A hearty vegetable curry for a quick and satisfying meal.,2025-08-16,2025-09-20,5.99,8
+1,Puff Pastry,Versatile puff pastry for pies and pastries.,2024-11-09,2025-08-12,5.49,40
+1,Spinach Artichoke Dip,"A delicious creamy dip featuring spinach and artichokes, perfect for parties.",2025-01-17,2025-09-13,4.99,8
+1,Dog Training Collar,Rechargeable training collar for effective behavior training.,2025-03-09,2025-07-18,39.99,62
+1,Lentil Soup,,2025-09-04,2025-10-23,2.49,86
+1,Chocolate Chip Pancake Mix,,2025-02-09,2025-08-19,3.99,4
+1,Lightweight Rain Jacket,"Water-resistant jacket ideal for outdoor activities, featuring a packable design.",2024-12-14,2025-10-24,79.99,93
+1,Organic Spinach,"Fresh organic spinach, great for salads or cooking.",2025-11-01,2025-09-04,2.99,39
+1,Pet Safety Harness,Comfortable harness designed to keep pets safe in the car.,2025-03-07,2025-11-04,24.99,26
+1,Noise Reduction Headphones,Passive noise reduction headphones for focus.,2025-10-07,2025-09-23,39.99,40
+1,Stainless Steel Travel Mug,Insulated mug to keep drinks hot on the go.,2025-01-06,2025-10-15,19.99,56
+1,Garden Hose Reel,Compact hose reel to keep your garden tidy.,2025-02-21,2025-08-01,49.99,78
+1,Whole Roasted Chicken,"Seasoned and roasted to perfection, ready to eat.",2025-07-29,2025-07-08,9.99,59
+1,Cranberry Orange Oatmeal,Instant oatmeal flavored with cranberries and orange zest for breakfast.,2025-03-20,2025-07-18,2.49,99
+1,Classic Cheesecake Mix,"A simple, no-bake cheesecake mix to create your own delicious cheesecake.",2024-11-29,2025-07-09,4.99,53
+1,Roasted Red Pepper Dip,"A blend of roasted red peppers and spices, perfect for dipping.",2024-11-13,2025-11-05,3.29,40
+1,Plant Pot Drip Trays,Prevent water damage with drip trays for potted plants.,2025-03-10,2025-10-08,9.99,64
+1,Pepper Jack Cheese Slices,"Creamy cheese with a spicy kick, perfect for sandwiches.",2025-02-25,2025-10-01,3.49,25
+1,Kids' Gardening Kit,Complete set designed for children to learn gardening.,2025-07-18,2025-09-07,24.99,86
+1,Ultra-Thin Laptop Sleeve,Sleek and protective sleeve for laptops and tablets.,2025-07-08,2025-09-08,19.99,4
+1,Inflatable Paddle Board,Lightweight and portable paddle board for water sports.,2024-11-09,2025-07-05,349.99,15
+1,Honey Mustard Pretzel Bites,"Delicious pretzel bites with a sweet honey mustard flavor, perfect for dipping.",2025-09-10,2025-10-04,3.99,95
+1,Portable Projector,Compact projector for movies and presentations on the go.,2025-03-06,2025-08-18,199.99,45
+1,Rustic Wooden Picture Frame,Charming frame to showcase your favorite photos.,2025-08-22,2025-08-11,19.99,19
+1,Self-Cleaning Cat Litter Box,Automated litter box that cleans itself after each use.,2025-03-30,2025-10-09,199.99,100
+1,Stainless Steel Cutlery Set,High-quality cutlery set for daily use or special occasions.,2025-07-20,2025-08-16,29.99,50
+1,Almond Flour Brownies,Deliciously rich brownies made with almond flour.,2025-04-23,2025-08-14,5.99,89
+1,Stainless Steel Mixing Bowls,Set of versatile mixing bowls for cooking.,2024-12-23,2025-07-01,29.99,39
+1,A-Line Skirt,"Classic A-line skirt that flatters every figure, perfect for work or play.",2025-06-08,2025-07-21,35.99,99
+1,Spicy BBQ Sauce,A tangy and spicy BBQ sauce that's perfect for grilling.,2025-03-27,2025-07-18,3.99,56
+1,Slingback Sandals,Chic slingback sandals for a relaxed summer vibe.,2025-10-26,2025-08-29,29.99,60
+1,Face Mask Set,Set of five reusable fabric face masks.,2025-05-23,2025-10-20,19.99,11
+1,Veggie Lovers Pizza,Frozen pizza loaded with fresh vegetables and mozzarella cheese.,2025-07-02,2025-07-25,8.99,27
+1,Children's Backpack,Stylish and functional backpack for school or trips.,2025-02-26,2025-10-27,29.99,19
+1,Adjustable Laptop Stand,Ergonomic stand for laptops to improve posture while working.,2025-03-14,2025-07-24,29.99,97
+1,Chilli Lime Corn on the Cob,Corn on the cob seasoned with chili and lime for a spicy kick.,2024-11-26,2025-08-28,1.99,87
+1,Maple Cinnamon Granola Bars,,2024-12-23,2025-09-26,3.49,96
+1,Kids' Outdoor Explorer Kit,Fun kit for aspiring explorers with binoculars and a compass.,2025-04-11,2025-07-08,24.99,25
+1,Pumpkin Spice Granola,Crunchy granola with pumpkin spice flavor.,2025-11-03,2025-08-22,4.99,10
+1,Faux Leather Leggings,Stylish faux leather leggings for a trendy outfit.,2025-09-05,2025-07-11,49.99,73
+1,Wall Calendar,Beautiful wall calendar for organizing your schedule.,2025-03-23,2025-10-12,17.99,92
+1,Smart Wi-Fi Camera,Indoor Wi-Fi camera for home security.,2024-12-19,2025-09-01,89.99,76
+1,Ripped Boyfriend Jeans,"Stylish ripped boyfriend jeans for a relaxed, effortlessly cool vibe.",2025-05-10,2025-10-01,54.99,24
+1,Garden Vegetable Chips,"Crispy chips made from assorted garden vegetables, lightly salted.",2025-06-19,2025-09-04,3.49,71
+1,Electric Hot Pot,Compact electric pot for hot pot dining at home.,2025-05-24,2025-07-27,49.99,10
+1,Artisan Flatbreads,,2024-11-20,2025-09-28,2.99,15
+1,Lentil Pasta,"Gluten-free pasta made from lentils, high in protein.",2025-10-13,2025-07-10,4.99,69
+1,Blender Bottle,Portable mixer bottle for smoothies and protein shakes.,2025-04-02,2025-07-22,12.99,79
+1,Workstation Laptop Stand,,2025-07-02,2025-09-14,49.99,45
+1,Coconut Chips,"Crunchy, toasted coconut chips for snacking.",2025-04-27,2025-10-29,3.59,69
+1,Vanilla Protein Powder,A high-quality protein powder perfect for smoothies and baking.,2025-03-12,2025-08-21,24.99,84
+1,Cordless Electric Screwdriver,Rechargeable screwdriver with multiple bits for DIY projects.,2025-07-03,2025-08-07,39.99,97
+1,Rechargeable Electric Screwdriver,Convenient electric screwdriver for DIY projects at home.,2025-04-24,2025-08-09,39.99,95
+1,Organic Spinach,,2025-01-29,2025-08-03,2.99,3
+1,Portable Air Conditioner,Compact air conditioner for personal cooling.,2025-11-05,2025-09-17,299.99,50
+1,Sea Salt Caramel Brownie,Moist brownie topped with sea salt and caramel drizzle.,2025-04-20,2025-09-19,2.49,5
+1,Fitness Tracker Band,Affordable fitness tracker with heart rate monitor.,2025-02-12,2025-10-05,29.99,36
+1,Green Smoothie Mix,A convenient powder mix combining greens and fruits for smoothies.,2025-06-29,2025-10-11,5.99,35
+1,LED Desk Lamp with USB Charging Port,Modern lamp featuring a USB port for convenient charging.,2025-11-01,2025-08-07,29.99,58
+1,Adjustable Pedicure Footrest,,2025-06-14,,39.99,24
+1,Guitar Tuner,Clip-on guitar tuner with LCD display.,2025-04-24,2025-07-01,19.99,20
+1,Video Camera,1080p HD video camera with night vision.,2025-10-16,2025-10-25,199,55
+1,Memory Foam Mattress Pad,Extra layer of comfort for your mattress.,2025-02-09,2025-09-17,69.99,48
+1,Wooden Children's Play Kitchen,Interactive kitchen set for imaginative play.,2025-07-31,2025-10-01,129.99,66
+1,Teriyaki Salmon Fillets,"Frozen salmon fillets marinated in teriyaki sauce, ready to grill or bake.",2025-09-07,2025-10-11,9.99,24
+1,Kids' Learning Tablet,Educational tablet designed for preschool-age children.,2025-05-01,2025-10-06,129.99,39
+1,Ice Cream Scoop,Durable scoop for perfectly shaped ice cream servings.,2025-06-02,2025-10-28,12.99,78
+1,Chickpea Flour,"Gluten-free flour made from ground chickpeas, great for cooking.",2025-06-17,,3.29,84
+1,Window Bird Feeder with Suction Cups,Clear feeder that attaches to windows for bird watching.,2025-07-23,2025-07-27,28.99,23
+1,Classic Vanilla Fudge,"Creamy vanilla fudge, a sweet treat for all occasions.",2024-12-03,2025-09-26,4.49,50
+1,Pesto Genovese,Traditional basil pesto made with extra virgin olive oil.,2025-02-10,2025-08-14,6.49,29
+1,Olive Oil,"Extra virgin olive oil, ideal for cooking and salads.",2024-12-24,2025-10-15,7.99,71
+1,Scented Candle Set,Set of soothing scented candles for relaxation and ambiance.,2024-12-27,2025-11-04,24.99,85
+1,Multi-Port USB Hub,USB hub for expanding ports on computers and laptops.,2025-02-21,2025-08-06,19.99,52
+1,Bodyweight Resistance Bands,Set of resistance bands for strength training at home.,2025-01-11,2025-08-18,22.99,50
+1,Collapsible Pet Dog Bowl,Travel-friendly dog bowl that is collapsible for easy storage.,2025-06-04,2025-07-16,9.99,76
+1,Spinach and Ricotta Ravioli,Delicious ravioli filled with creamy ricotta and fresh spinach.,2025-07-06,2025-09-04,6.49,19
+1,Portable Dog Water Bottle,Convenient water bottle for pets on the go.,2025-04-13,2025-08-09,18.99,36
+1,Almond Joy Protein Bars,Chocolate coconut protein bars inspired by the classic candy bar.,2024-11-15,2025-07-02,1.99,41
+1,Insulated Wine Tote,Stylish tote to keep wine bottles chilled while traveling.,2024-11-06,2025-07-25,24.99,29
+1,Maple Cinnamon Granola,"Crunchy granola mixed with maple syrup and cinnamon, perfect for breakfast or snacks.",2024-12-03,2025-07-12,4.29,68
+1,Pumpkin Pie Spice,A blend of spices that brings the taste of fall to your baked goods.,2025-06-15,2025-08-22,2.99,13
+1,Classic Cheesecake Mix,"A simple, no-bake cheesecake mix to create your own delicious cheesecake.",2025-02-04,2025-08-06,4.99,67
+1,Pet Water Bottle,,2025-04-28,2025-08-05,18.99,23
+1,Adjustable Standing Desk,Ergonomic desk that adjusts height for standing or sitting.,2025-05-15,2025-08-08,299.99,24
+1,Freestanding Wine Rack,Stylish wine rack to store and display bottles.,2025-03-18,2025-10-12,79.99,84
+1,Mini Pretzels,"Crispy mini pretzels, a great snack any time of day.",2025-10-07,2025-10-21,2.99,67
+1,Honey Lemon Tea,"Refreshing tea with honey and lemon flavor, perfect for a warm drink.",2025-07-08,2025-09-06,3.29,92
+1,Pizza Stone,Ceramic pizza stone for homemade pizzas.,2025-09-06,2025-08-31,29.99,100
+1,Breathable Face Mask Set,Comfortable and reusable face masks in different styles.,2024-12-16,2025-08-12,14.99,50
+1,Summer Tank Dress,"A lightweight tank dress, ideal for warm weather outings.",2025-03-11,2025-09-26,39.99,58
+1,Spice Rack,,2025-05-10,2025-07-16,39.99,82
+1,Personal Blender,,2025-07-02,2025-10-31,39.99,58
+1,Black Bean Spaghetti,"High-protein pasta made from black beans, gluten-free.",2025-01-08,,3.99,2
+1,Smartphone Car Mount with Wireless Charging,Secure phone mount that wirelessly charges your device while driving.,2025-05-14,2025-09-24,39.99,90
+1,Sunflower Seeds,Salted sunflower seeds perfect for snacking.,2025-01-28,2025-07-01,2.99,6
+1,Creamy Spinach Dip,"Deliciously creamy spinach dip, perfect for parties.",2025-07-07,2025-09-10,5.99,78
+1,Chic Ankle Strap Heels,Stylish ankle strap heels for a classy look at any event.,2024-12-09,2025-10-02,69.99,4
+1,Chocolate Chip Muffins,Fresh baked chocolate chip muffins for breakfast.,2025-01-18,2025-08-06,3.99,77
+1,Multi-Port USB Hub,USB hub for expanding ports on computers and laptops.,2025-06-14,2025-07-06,19.99,26
+1,Gardening Tools Set,Complete set of gardening tools for outdoor tasks.,2025-09-05,2025-08-08,45,78
+1,Tandoori Chicken Skewers,Marinated chicken skewers infused with traditional tandoori spices.,2025-05-18,2025-08-16,7.99,69
+1,Jasmine Rice,"Fragrant jasmine rice, perfect as a side dish.",2025-02-11,2025-09-10,2.39,49
+1,Lentil Pasta,"Gluten-free pasta made from lentils, high in protein.",2025-02-11,,4.99,26
+1,Dog Training Collar,Rechargeable training collar for effective behavior training.,2025-09-10,2025-08-18,39.99,60
+1,Camera Tripod,Sturdy camera tripod for professional photography.,2025-01-09,2025-09-28,49.99,89
+1,Sporty Leggings,Functional leggings designed for maximum comfort during workouts.,2025-10-10,2025-09-24,39.99,29
+1,Fresh Cilantro,"Bright and fragrant cilantro, great for garnishes.",2025-04-13,2025-08-20,1.49,24
+1,Eco-Friendly Notepad,Notepad made from recycled paper for sustainable note-taking.,2025-03-06,2025-07-18,8.99,81
+1,Chocolate Almond Milk,Rich and creamy almond milk with a hint of chocolate.,2025-08-13,2025-09-12,2.79,29
+1,Personalized Pet ID Tags,Custom engraved ID tags for pets with your contact information.,2025-10-14,2025-08-06,9.99,57
+1,Organic Coconut Flour,Finely ground flour from dried coconut meat.,2025-04-11,2025-10-11,5.49,94
+1,Foam Muscle Roller,Relieve muscle tension and soreness with this foam roller.,2024-12-30,2025-07-13,24.99,65
+1,Buffalo Wing Sauce,Spicy sauce perfect for chicken wings and dipping.,2025-10-10,2025-07-10,3.99,20
+1,Fruit Infuser Water Bottle,Water bottle designed to infuse flavors from fruits.,2025-03-08,2025-08-15,15.99,62
+1,Fruit and Nut Energy Bites,Natural energy bites packed with fruits and nuts for a perfect snack.,2024-12-12,2025-08-02,2.99,83
+1,Electric Rice Cooker with Steamer,Cook rice and steam vegetables simultaneously for healthy meals.,2024-11-24,2025-10-16,49.99,76
+1,Stainless Steel Water Pitcher,Insulated pitcher to keep beverages cold or hot.,2025-06-30,2025-07-18,39.99,79
+1,Buttermilk Pancakes,Fluffy pancakes with buttermilk flavor.,2025-09-19,2025-07-19,3.99,56
+1,Silicone Ice Cube Tray,Flexible tray for easy-release ice cubes.,2025-03-18,2025-11-01,10.99,18
+1,Honey Nut Cheerios,Classic cereal made with whole grains and honey.,2025-08-21,2025-07-30,4.29,9
+1,Electric Toothbrush Holder,Sanitary holder that ensures your toothbrush stays clean.,2025-02-01,2025-07-08,14.99,27
+1,Kettle Chip Variety Pack,A crunchy collection of flavored kettle chips in a convenient pack.,2024-11-27,2025-08-19,3.99,17
+1,Foot Massager,Electric foot massager with heat settings.,2025-09-12,2025-09-05,79.99,20
+1,Ground Cinnamon,Freshly ground cinnamon spice for baking or seasoning.,2025-01-15,2025-08-12,1.99,96
+1,Sweet Potato & Kale Hash,"Savory hash made with sweet potatoes and kale, a perfect side dish.",2025-08-24,2025-10-18,5.49,6
+1,Creamy Garlic Dressing,"Rich and creamy dressing with garlic flavor, perfect for salads.",2025-01-15,2025-09-20,3.99,97
+1,Travel Pillow with Memory Foam,Ergonomically designed neck pillow for comfortable travel.,2024-11-22,2025-07-18,29.99,43
+1,Graphic Tee,Soft cotton graphic tee available in various designs.,2025-03-05,2025-08-11,19.99,88
+1,Thai Peanut Noodles,Noodles tossed in a spicy Thai peanut sauce.,2025-03-30,2025-11-03,4.99,9
+1,Stylish Combat Boots,Bold combat boots that make a statement with any outfit.,2025-02-25,2025-10-26,99.99,93
+1,Coconut Curry Sauce,A flavorful sauce made with coconut milk and spices.,2025-07-28,2025-08-25,3.89,42
+1,Sesame Garlic Noodles,Delicious noodles tossed in a sesamegarlic sauce.,2025-02-07,2025-07-08,3.49,73
+1,Desk Organizer Set,Stylish desk set to keep your workspace tidy and organized.,2025-01-22,2025-09-06,29.99,13
+1,Whole Chicken,"A whole free-range chicken, ready for roasting.",2025-01-04,2025-10-22,12.99,51
+1,Maxi Wrap Dress,A flowy maxi dress perfect for both casual and semi-formal occasions.,2025-06-13,2025-10-14,49.99,2
+1,Sweet Potatoes,"Sweet and nutritious potatoes, great for roasting.",2025-02-05,2025-10-17,0.89,2
+1,Portable Solar Path Lights,Eco-friendly solar lights for pathways and gardens.,2025-10-26,,39.99,91
+1,Baked Potato Chips,"Light and crispy baked chips, a healthier snack option.",2025-02-27,2025-09-07,2.49,30
+1,Poppy Seed Dressing,,2025-04-26,2025-10-31,3.49,3
+1,Italian Breadsticks,,2025-03-08,2025-10-09,2.49,34
+1,French Onion Dip,"Creamy dip made with real onions and spices, great for chips and veggies.",2025-01-10,2025-07-03,2.99,79
+1,Lemon Herb Chicken,Marinated chicken grilled with lemon and herbs.,2025-09-03,2025-09-02,7.49,83
+1,Pecan Nuts,,2025-06-11,2025-09-18,6.49,11
+1,Lentils,"High in protein, perfect for soups and stews.",2024-11-19,2025-09-26,2.99,82
+1,Digital Alarm Clock,Snooze function and LED display for easy reading.,2025-09-27,2025-10-28,19.99,29
+1,Dog Training Whistle,High-frequency whistle for training your dog effectively.,2025-11-01,,8.99,51
+1,Compact Pop-Up Tent,Easy setup tent perfect for camping and outdoor festivals.,2025-09-16,2025-09-03,69.99,44
+1,Roasted Red Pepper Hummus,A creamy and flavorful hummus made with roasted red peppers.,2024-12-06,2025-08-10,3.49,70
+1,Electric Wax Warmer,Wax warmer for creating a soothing atmosphere with fragrances.,2025-07-17,2025-07-06,22.99,53
+1,Quinoa and Kale Salad Kit,"Ready-to-eat salad with quinoa and kale, drizzled with vinaigrette.",2024-11-22,2025-08-17,5.29,12
+1,Organic Ramen Noodles,,2025-10-18,2025-08-08,2.89,9
+1,Asian Salad Mix,Fresh greens and veggies for a quick Asian-inspired salad.,2025-03-16,2025-07-26,3.99,97
+1,Insulated Wine Tote,Stylish tote to keep wine bottles chilled while traveling.,2025-01-11,2025-09-08,24.99,2
+1,Mixed Berry Smoothie Pack,"Frozen berries blend perfect for smoothies, just add yogurt.",2025-07-31,,5.99,56
+1,Mini Projector,Portable projector with 1080p resolution for movies.,2025-06-29,2025-10-30,169.99,29
+1,Beef Jerky,"Savory, protein-rich beef jerky for on-the-go snacking.",2025-10-13,2025-09-12,5.99,46
+1,Chocolate Mint Protein Shake,A nutritious shake with rich chocolate and refreshing mint flavors.,2025-09-01,2025-07-31,3.99,86
+1,Cranberry Pecan Granola,Crunchy granola with cranberries and pecans.,2025-10-27,2025-09-28,3.99,73
+1,Interchangeable Watch Bands,Set of stylish watch bands to customize your look.,2025-01-29,2025-07-19,24.99,99
+1,Memory Foam Pillow,Ergonomic memory foam pillow for better sleep.,2025-01-09,2025-07-29,39.99,37
+1,Thai Peanut Noodles,Noodles tossed in a spicy Thai peanut sauce.,2025-03-14,2025-09-26,4.99,4
+1,Caramelized Onion Dip,"Creamy dip made with caramelized onions, perfect for chips or veggies.",2025-02-15,2025-10-17,3.99,8
+1,Grilled Veggie Burgers,Delicious veggie burgers loaded with grilled vegetables.,2025-07-26,2025-07-17,6.29,24
+1,Puffer Winter Coat,A warm and stylish puffer coat perfect for winter weather.,2024-12-26,2025-10-15,99.99,9
+1,Air Purifier,HEPA air purifier for clean indoor air.,2025-05-07,2025-07-13,129.99,59
+1,Red Lentils,Nutritious and quick-cooking red lentils.,2025-04-13,2025-09-15,1.99,2
+1,Marinara Sauce,Classic marinara sauce for all pasta dishes.,2025-05-18,2025-08-31,3.49,91
+1,Hair Dryer,Compact hair dryer with multiple heat settings.,2025-01-30,2025-09-17,39.99,72
+1,Cacao Powder,,2025-08-16,2025-09-02,4.49,48
+1,Home Brewing Starter Kit,All-in-one kit for brewing beer at home.,2025-10-29,2025-08-13,79.99,73
+1,Pet Water Fountain with Filtration,,2024-12-26,2025-10-27,39.99,64
+1,Stuffed Peppers with Quinoa,Bell peppers filled with quinoa and vegetables.,2025-10-25,2025-07-21,7.99,81
+1,Foot Massager Machine,Electric foot massager for relaxation and relief.,2025-09-29,2025-10-05,59.99,25
+1,Bamboo Bathtub Caddy,"Expandable caddy for holding books, phones, and snacks while in the bath.",2025-01-13,2025-08-17,34.99,14
+1,Backpack,Durable and spacious backpack for travel and school.,2025-06-29,2025-07-19,49.99,36
+1,Smart Scale,Wi-Fi smart scale for tracking weight and BMI.,2025-04-03,2025-10-04,59.99,48
+1,Compact Folding Table,,2025-04-12,2025-07-29,49.99,27
+1,Trendy Bomber Jacket,A fashion-forward bomber jacket to elevate your casual looks.,2025-06-24,2025-07-24,69.99,47
+1,Eco-Friendly Yoga Mat,Made from biodegradable materials for eco-conscious yogis.,2025-10-09,2025-10-17,39.99,93
+1,Wall Decals for Kids,Fun and colorful wall decals for children's rooms.,2025-07-10,2025-10-20,24.99,76
+1,Vegetable Lentil Soup,"A hearty soup made with lentils, a variety of vegetables, and spices, ideal for a nutritious meal.",2025-08-30,2025-08-31,3.49,26
+1,Green Smoothie Mix,A convenient powder mix combining greens and fruits for smoothies.,2024-11-28,2025-07-04,5.99,64
+1,Eco-Friendly Cleaning Cloths,Reusable microfiber cloths for environmentally friendly cleaning.,2025-02-07,2025-08-30,12.99,35
+1,Adjustable Pet Feeder,,2025-01-04,2025-09-15,39.99,52
+1,Pumpkin Puree,"Canned pumpkin puree, perfect for pies and soups.",2025-10-03,2025-09-25,2.99,20
+1,Gardening Kneeler and Seat,Foldable kneeler that doubles as a seat for gardening convenience.,2024-11-30,2025-08-02,39.99,14
+1,Coconut Cream Pie,Delicious pie filled with coconut cream and topped with whipped cream.,2025-07-28,2025-07-18,9.49,3
+1,Cranberry Almond Cookies,,2025-02-15,2025-10-11,4.29,1
+1,Folding Table,Portable folding table for outdoor events.,2025-01-31,2025-09-27,59.99,90
+1,Slim Wallet,RFID-blocking slim wallet for cards and cash.,2025-10-26,2025-09-26,24.99,28
+1,Zucchini Noodle Pasta,"Low-carb zucchini noodles, perfect for a healthy alternative to pasta.",2025-02-06,2025-07-28,3.99,24
+1,Manual Coffee Grinder,Compact coffee grinder for fresh ground coffee beans.,2025-07-16,2025-08-12,22.99,46
+1,Foldable Yoga Mat,Compact yoga mat that folds for easy storage and transport.,2025-10-18,,29.99,42
+1,LED Under Cabinet Lighting,Easy-to-install lights to brighten kitchen cabinets and workspaces.,2025-07-27,2025-10-17,29.99,91
+1,Adjustable Bar Stools,Stylish bar stools with adjustable height and swivel features.,2025-10-04,2025-09-21,149.99,32
+1,Eco-Friendly Notepad,Notepad made from recycled paper for sustainable note-taking.,2025-06-13,2025-07-07,8.99,37
+1,Smart Light Switch,Control lights remotely with this smart switch.,2025-08-15,2025-08-27,29.99,39
+1,Gardening Fairy Figurines,Cute fairy figurines to decorate your garden or potted plants.,2025-01-20,2025-08-24,14.99,96
+1,Silicone Baking Molds,Set of flexible molds for baking cakes and pastries.,2025-04-21,2025-10-13,15.99,67
+1,Vegetarian Sausage Links,Plant-based sausage links with spices and herbs.,2025-07-21,2025-09-24,5.89,98
+1,Dark Chocolate Tart,Decadent tart made with rich dark chocolate.,2024-12-26,2025-07-27,6.29,96
+1,Vanilla Bean Greek Yogurt,Smooth Greek yogurt infused with vanilla bean flavor.,2025-07-03,2025-09-18,1.99,17
+1,Wireless Music Receiver,Stream music from your device to any speaker wirelessly.,2025-09-19,,19.99,49
+1,Wine Decanter,Elegant glass decanter for aerating wine.,2025-07-28,2025-07-07,34.99,77
+1,Chicken Broth,"Rich and flavorful chicken broth, great for soups.",2025-04-28,2025-09-07,2.49,87
+1,Reusable Food Storage Bags,Eco-friendly silicone bags for food storage and snacks.,2025-04-02,2025-10-06,19.99,86
+1,Caraway Rye Bread,Artisan bread with caraway seeds for added flavor.,2025-06-20,2025-07-23,4.79,69
+1,Banana Nut Oatmeal Cups,"Quick oatmeal cups with banana and nut flavor, great for breakfast.",2025-01-29,2025-08-16,2.99,52
+1,Chicken Parmesan Dinner Kit,"A complete meal kit containing breaded chicken breast, marinara sauce, and pasta, perfect for a quick dinner.",2025-04-24,2025-08-25,14.99,46
+1,Electric Wine Opener,Rechargeable electric wine opener for effortless uncorking.,2025-06-11,2025-09-01,29.99,64
+1,Cinnamon Apple Sauce,Delicious apple sauce with a hint of cinnamon,2025-07-10,,2.49,72
+1,Classic Slim Fit Shirt,A tailored slim fit shirt for a polished look at work.,2025-05-26,2025-07-29,49.99,48
+1,Party Mini Dress,"Eye-catching mini dress with sequins, ideal for party nights out.",2025-03-14,2025-07-07,69.99,2
+1,Oversized Denim Shirt,A trendy oversized denim shirt perfect for layering.,2025-08-23,2025-10-14,49.99,76
+1,Classic Chicken Noodle Soup,A comforting soup filled with chicken and noodles in broth.,2025-11-01,2025-10-18,3.49,71
+1,Over-The-Door Shoe Organizer,Space-saving shoe organizer for tight spaces.,2025-09-09,2025-07-12,25.99,37
+1,Coconut Curry Lentils,Lentils cooked in a coconut curry for a hearty meal.,2025-02-25,2025-10-07,5.79,18
+1,Non-Toxic Crayons for Kids,Safe and vibrant crayons for children's art projects.,2025-06-19,2025-11-05,10.99,19
+1,Waterproof Rain Boots,Stay dry with these stylish waterproof rain boots.,2025-01-28,2025-08-22,69.99,82
+1,Cranberry Almond Cookies,Delicious cookies with cranberries and almonds in every bite.,2025-01-30,,4.29,74
+1,Reflective Safety Vest,Bright safety vest for outdoor visibility during any activity.,2025-04-05,2025-09-02,19.99,72
+1,Apple Cinnamon Breakfast Muffins,Delicious muffins filled with apples and a hint of cinnamon for breakfast.,2025-01-23,,3.49,74
+1,Adjustable Pet Feeder,Convenient feeder that adjusts to your pet's height.,2025-07-30,2025-10-18,39.99,32
+1,Spicy Italian Sausage,"Savory sausage with a blend of spices, perfect for pasta dishes.",2025-10-15,2025-10-20,4.99,5
+1,Multi-Function Meat Tenderizer,Kitchen tool for tenderizing meat to enhance flavors.,2025-01-18,2025-09-27,19.99,92
+1,Toasted Coconut Granola,"Crunchy granola with toasted coconut flakes, perfect for breakfast or snacks.",2025-04-24,2025-11-04,4.99,5
+1,Oven-Baked Parmesan Zucchini,"Frozen zucchini slices coated in parmesan cheese, perfect for baking or frying.",2024-12-17,2025-08-20,4.99,94
+1,Spicy Avocado Salsa,"A zesty salsa made from ripe avocados, tomatoes, onions, and jalapeños, great for dipping or topping.",2025-08-02,2025-09-16,4.49,21
+1,Noise Reduction Headphones,Passive noise reduction headphones for focus.,2025-06-13,2025-07-24,39.99,95
+1,Coconut Milk Ice Cream,"Dairy-free ice cream made with coconut milk, creamy and delicious.",2025-08-09,2025-07-08,6.99,3
+1,Creamy Tomato Basil Soup,"Rich and creamy tomato basil soup, perfect with a grilled cheese.",2025-10-30,2025-07-06,3.29,17
+1,Miso Dressing,Flavorful dressing made with miso paste,2025-01-29,2025-10-31,3.49,78
+1,Smoked Salmon,"Deliciously smoked salmon, great for bagels.",2025-02-28,2025-09-02,14.99,12
+1,Thai Peanut Dressing,A creamy and tangy dressing perfect for salads or as a dipping sauce.,2025-05-28,2025-09-22,3.29,81
+1,Smartphone Tripod with Remote,Adjustable tripod with remote shutter for smartphones.,2025-04-19,2025-10-26,29.99,51
+1,Wooden Children's Play Kitchen,Interactive kitchen set for imaginative play.,2025-05-09,2025-08-22,129.99,57
+1,Sweet Potato and Chickpea Bowl,A nourishing bowl of sweet potatoes and chickpeas with spices.,2025-04-06,2025-08-02,6.49,46
+1,Coconut Curry Sauce,A flavorful sauce made with coconut milk and spices.,2025-06-20,2025-07-23,3.89,40
+1,Basil Lemonade,Refreshing basil-infused lemonade for a cool drink.,2025-06-23,2025-10-11,2.99,75
+1,Chocolate Hazelnut Spread,"A creamy spread made with chocolate and hazelnuts, perfect for toast.",2024-12-22,2025-07-12,5.99,39
+1,Outdoor Adventure Backpack,Durable backpack for hiking or travel.,2025-10-05,2025-10-16,59.99,29
+1,Laptop Sleeve,Padded laptop sleeve for protection against scratches.,2025-05-12,2025-07-06,24.99,15
+1,Handmade Wooden Utensil Set,Unique handcrafted utensils for cooking and serving.,2025-09-09,2025-10-05,24.99,71
+1,Patterned Knit Scarf,,2025-01-16,2025-09-27,25.99,36
+1,Car Emergency Kit,Comprehensive emergency kit for roadside assistance.,2025-07-08,2025-07-31,49.99,28
+1,Tomato Basil Soup,"A classic soup combining tomatoes and basil, great with grilled cheese sandwiches.",2024-11-18,2025-10-01,3.49,41
+1,Automatic Pet Feeder,Programmable pet feeder for scheduled meals.,2025-07-15,2025-07-08,69.99,78
+1,Dog Frisbee Toy,Durable and soft frisbee designed for dogs to play with.,2025-03-31,,10.99,25
+1,Home Delivery Food Journal,Track your meals and nutrition with this handy food journal.,2025-09-16,2025-09-30,14.99,87
+1,Fitness Foam Roller,High-density foam roller for muscle recovery.,2025-07-30,2025-08-02,29.99,50
+1,Electric Nail File Kit,Professional-grade nail care set for manicures and pedicures.,2025-10-18,2025-10-31,34.99,21
+1,Water Bottle with Built-in Fruit Infuser,Stay hydrated with refreshing flavored water.,2025-08-08,2025-09-24,18.99,14
+1,High-Waisted Skirt,"Chic high-waisted skirt, perfect for professional or casual settings.",2025-07-02,,34.99,77
+1,Sketchbook,,2025-04-27,2025-09-12,14.99,44
+1,Dog Collar,Adjustable dog collar with personalized tags.,2025-07-23,2025-10-02,15.99,59
+1,Tomato Paste,"Concentrated tomato paste, great for sauces.",2025-09-11,2025-09-12,1.29,42
+1,Sushi Roll Kit,,2025-04-23,2025-07-16,9.99,48
+1,Vegan Mayonnaise,Plant-based mayonnaise for a creamy taste.,2025-07-29,2025-09-01,4.49,78
+1,Smartphone Photography Ring Light,Portable ring light that enhances your photos with perfect lighting.,2025-03-23,2025-08-28,29.99,62
+1,Electric Toothbrush,Rechargeable electric toothbrush with smart timer.,2025-09-18,2025-10-21,49.95,70
+1,Acoustic Guitar,Beginner-friendly acoustic guitar with natural finish.,2025-06-21,2025-10-22,199.99,52
+1,Bluetooth Car Adapter,Connect your phone to the car's audio system via Bluetooth.,2025-01-07,2025-11-02,24.99,100
+1,Woven Storage Baskets,Stylish baskets for organizing various items in your home.,2025-06-21,2025-07-14,24.99,28
+1,Cheddar Cheese Slices,"Creamy cheddar cheese slices, perfect for sandwiches and snacks.",2024-11-24,2025-10-06,3.49,7
+1,Granulated Sugar,Fine granulated sugar for all your baking needs.,2025-02-15,2025-10-12,2.49,6
+1,Ethically-Sourced Coffee Beans,Freshly roasted coffee beans with rich flavor.,2025-03-15,,9.99,85
+1,Chocolate Mint Thins,Mint-flavored chocolate candies for a refreshing treat.,2025-01-05,2025-10-21,2.99,76
+1,Raspberry Vanilla Greek Yogurt,Creamy Greek yogurt infused with raspberry and vanilla flavors.,2025-03-28,2025-09-28,3.49,71
+1,Personal Blender with Travel Lid,Blender designed for smoothies and shakes on the go.,2025-07-26,,34.99,100
+1,Pineapple Teriyaki Chicken Mix,A perfect blend of pineapple and teriyaki for stir-fry.,2025-05-19,2025-07-23,6.99,8
+1,LED Canopy Lights,Energy-efficient lights to illuminate outdoor areas.,2025-06-25,2025-10-22,29.99,21
+1,Magnetic Chess Set,Portable chess set with magnetic pieces for travel.,2025-03-10,2025-09-03,19.99,49
+1,Savory Snack Mix,"A mix of nuts, pretzels, and crackers, seasoned just right for snacking.",2025-09-12,2025-10-21,4.49,37
+1,Fitness Mat,Thick and durable mat for workouts and yoga.,2024-11-09,2025-08-10,49.99,74
+1,Kids' Dinosaur-Themed Lunchbox,Fun lunchbox for kids with a sturdy design.,2025-06-29,2025-09-01,19.99,78
+1,Ramen Noodles,Quick-cooking ramen for instant meals.,2024-12-09,2025-10-10,0.99,73
+1,Indestructible Dog Toy,Durable toy designed for heavy chewers.,2025-04-16,2025-07-17,15.99,84
+1,Ultraviolet Phone Sanitizer,UV sanitizer that kills germs on your smartphone.,2025-03-31,2025-09-01,39.99,96
+1,Digital Wireless Camera,Secure digital wireless security camera system.,2025-04-18,2025-10-13,199.99,19
+1,Multi-Function Meat Tenderizer,Kitchen tool for tenderizing meat to enhance flavors.,2025-01-02,2025-08-31,19.99,46
+1,Breathable Face Mask Set,Comfortable and reusable face masks in different styles.,2024-12-28,2025-10-01,14.99,1
+1,Leather Biker Jacket,Stylish black leather jacket featuring a zip-up front and multiple pockets.,2025-05-09,2025-10-03,129.99,81
+1,Biodegradable Trash Bags,Eco-friendly trash bags that break down naturally.,2025-09-26,2025-09-29,12.99,55
+1,Granulated Sugar,Fine granulated sugar for all your baking needs.,2025-09-18,,2.49,75
+1,Flavored Instant Oatmeal,Quick oatmeal with various flavors,2025-09-10,2025-11-04,2.99,93
+1,Steak Seasoning Rub,A blend of spices perfect for seasoning steak.,2025-08-19,2025-09-18,2.49,66
+1,Creamy Avocado Dip,"Rich and creamy dip made with real avocado, great for chips.",2025-06-11,2025-10-31,3.49,2
+1,Ceramic Non-Stick Frying Pan,Durable non-stick frying pan for easy cooking and cleaning.,2025-05-28,2025-08-17,39.99,5
+1,Key Finder,Bluetooth-enabled key tracker to find lost items easily.,2025-04-09,2025-08-18,19.99,89
+1,Multi-Cooker,Versatile multi-cooker for pressure cooking and slow cooking.,2025-06-11,2025-10-27,89.99,78
+1,Ramen Noodle Soup Cups,Instant ramen cups with flavor-packed broth.,2025-10-19,2025-08-31,1.29,75
+1,Low-Fat Yogurt,"Creamy yogurt with probiotics, available in various flavors.",2025-09-06,2025-07-19,3.29,23
+1,Portable Air Pump,Compact pump ideal for inflating sports equipment or rafts.,2025-10-22,2025-10-01,19.99,40
+1,Puzzle,Challenging 1000-piece jigsaw puzzle for all ages.,2025-04-23,2025-07-03,27.99,41
+1,Sous Vide Cooker,Precision cooker for perfect sous vide cooking.,2025-07-29,2025-10-05,79.99,69
+1,Scent Diffuser,Ultrasonic essential oil diffuser with LED lights.,2025-01-19,2025-10-20,34.99,76
+1,Magnetic Curtain Tiebacks,,2025-02-03,2025-09-16,12.99,88
+1,Apple Pie Filling,"Sweet and spiced apple filling, perfect for pies.",2025-06-29,,3.49,6
+1,Essential White Button-Up,A classic white button-up shirt for a polished appearance.,2025-05-23,2025-08-25,44.99,84
+1,Reusable Silicone Food Storage Bags,,2025-04-17,2025-07-03,19.99,40
+1,Carrot Ginger Soup,"Smooth soup made from carrots and ginger, great for cold days.",2024-11-26,2025-10-29,4.29,77
+1,Waffle Maker,Make delicious waffles with this user-friendly device.,2025-04-21,2025-08-14,39.99,29
+1,Scented Soy Candles,Hand-poured candles made of natural soy wax.,2025-05-23,2025-09-13,19.99,24
+1,Lemon Herb Quinoa,"Fluffy quinoa mixed with lemon zest and herbs, a perfect side.",2025-05-12,2025-10-20,3.49,39
+1,Portable UV Sterilizer,Compact sterilizer for disinfecting small items.,2025-03-09,2025-08-25,19.99,67
+1,Coconut Curry Lentil Soup,"A hearty soup made with lentils, coconut milk, and a blend of spices for a tropical flavor.",2025-05-27,2025-10-31,3.99,6
+1,Honeycrisp Apples,"Crisp and sweet Honeycrisp apples, freshly picked.",2025-01-24,2025-09-11,1.89,32
+1,Pasta Maker Machine,Manual pasta maker for creating fresh pasta at home.,2025-04-04,2025-09-25,59.99,29
+1,Noise-Canceling Headphones,High-quality headphones that block out external noise for immersive listening.,2025-03-25,2025-10-20,119.99,52
+1,Pet Camera with Treat Dispenser,Monitor and interact with your pet remotely with this camera.,2025-03-08,2025-08-28,149.99,11
+1,Watering Can with Nozzle,Stylish watering can for plants with easy pouring nozzle.,2025-01-01,2025-10-19,19.99,55
+1,Coffee Making Kit,Complete set to brew coffee with different methods.,2025-09-29,2025-07-16,44.99,76
+1,Sunglasses Case,Hard-shell case for protecting sunglasses.,2025-06-20,2025-10-28,15.99,98
+1,Maple Bacon Popcorn,Savory popcorn flavored with maple syrup and bacon bits.,2025-11-03,2025-07-22,3.49,46
+1,Smart Home Hub,Connect and control smart devices from one app.,2025-07-15,2025-07-22,99.99,70
+1,Cherry Almond Protein Bar,"Nutritious protein bar with cherry and almond flavor, great for on-the-go.",2024-11-28,2025-09-11,1.99,75
+1,Yoga Mat Carrier,Convenient carrier for transporting yoga mat.,2025-03-02,2025-10-12,12.99,78
+1,Sweet and Spicy Barbecue Sauce,A flavorful barbecue sauce with a sweet and spicy kick.,2025-09-23,2025-07-13,3.99,89
+1,Frozen Acai Purée,Unsweetened frozen acai purée for smoothies and bowls.,2025-02-19,2025-09-23,6.99,64
+1,Electric Griddle with Lid,"Non-stick griddle for pancakes, burgers, and more.",2025-04-03,2025-11-02,49.99,17
+1,Pet Hair Remover,Effective roller for removing pet hair from furniture.,2025-03-23,2025-07-04,9.99,96
+1,Portable Air Conditioner,Compact air conditioner for personal cooling.,2025-07-15,2025-10-23,299.99,74
+1,Sweet Potatoes,"Sweet and nutritious potatoes, great for roasting.",2025-04-07,2025-10-01,0.89,83
+1,Electric Heating Pad,Microwaveable heating pad for muscle pain relief and relaxation.,2025-10-11,2025-08-31,20.99,30
+1,Folding Pocket Knife,Compact knife with safety lock for everyday use.,2024-12-20,,24.99,66
+1,Marinated Artichokes,Artichoke hearts marinated in herbs and oil.,2025-02-28,2025-08-06,3.79,30
+1,Kale & Quinoa Salad Mix,"A nutrient-packed salad mix with kale, quinoa, and a lemon vinaigrette, ready to eat.",2024-11-06,2025-07-03,4.49,85
+1,Folding Exercise Bike,Space-saving bike for indoor workouts.,2025-02-24,2025-09-18,199.99,6
+1,Fettuccine Alfredo Dinner Kit,Easy meal kit for creamy fettuccine Alfredo.,2025-09-23,2025-11-03,5.49,90
+1,Teriyaki Chicken Skewers,Grilled chicken skewers glazed with teriyaki sauce.,2025-07-17,2025-10-08,8.99,69
+1,Motion Sensor Light,Battery-operated motion sensor light for safety.,2025-09-02,2025-08-11,19.99,68
+1,Essential Oil Diffuser,Ultrasonic diffuser that helps create a calming atmosphere.,2025-07-12,2025-08-11,34.99,10
+1,Pet Grooming Kit,Complete grooming kit for dogs and cats.,2025-07-19,2025-09-09,39.99,78
+1,Teriyaki Stir-Fry Sauce,Savory teriyaki sauce for stir-frying veggies or meats.,2025-06-20,2025-08-09,3.49,86
+1,Beet Salad,"Ready-to-eat beet salad with dressing, great side dish.",2025-08-17,2025-10-23,3.99,90
+1,Sesame Ginger Dressing,"Tangy dressing perfect for salads and marinades, with sesame and ginger flavors.",2025-04-27,2025-10-17,4.09,30
+1,Caramel Apple Taffy,"Sweet and chewy taffy flavored like caramel apples, great for fall.",2025-03-05,2025-08-27,1.99,33
+1,Instant Camera,Retro instant camera for capturing and printing photos instantly.,2025-08-24,2025-09-22,89.99,74
+1,Lentil Soup (canned),Hearty lentil soup for a quick meal.,2025-04-05,2025-10-07,1.99,35
+1,Children's Educational Puzzle,Fun and educational puzzle set for kids.,2025-08-01,2025-07-19,19.99,32
+1,Sweet Potato Chips,"Deliciously crunchy sweet potato chips, seasoned to perfection.",2024-11-11,,2.99,55
+1,Reusable Snack Bags,Eco-friendly reusable bags for snacks.,2025-03-20,2025-07-20,14.99,7
+1,Mushroom Soup (canned),Creamy soup full of rich mushroom flavor.,2025-08-26,2025-07-19,2.49,38
+1,Raspberry Lemonade Mix,"A refreshing drink mix that combines sweet raspberries and tart lemons, perfect for summer.",2025-02-23,2025-08-08,3.99,39
+1,Spicy Hummus,"Creamy hummus with a kick of spice, great for dipping.",2025-09-02,2025-07-04,3.49,13
+1,Self-Watering Planters,Planters with a self-watering feature for easy care.,2024-12-17,2025-10-02,49.99,10
+1,Sweet Potato Mash,"Creamy mashed sweet potatoes, ready to heat and serve.",2025-06-26,2025-10-25,3.99,44
+1,Bluetooth Shower Speaker,Water-resistant Bluetooth speaker for showers.,2024-12-06,,24.99,35
+1,Dried Mango Slices,"Sweet and chewy dried mango slices, perfect for snacking.",2025-08-31,2025-07-28,3.49,10
+1,Overnight Duffle Bag,Spacious duffle bag for weekend getaways.,2025-07-26,2025-07-08,34.99,92
+1,Free-Range Eggs,Fresh eggs from free-range chickens.,2025-07-15,2025-10-31,3.99,52
+1,Printed Maxi Skirt,A colorful printed maxi skirt for a bohemian look.,2025-09-25,2025-09-29,39.99,41
+1,Italian Pasta,"Authentic Italian pasta, perfect for a classic meal.",2025-01-18,2025-08-29,2.29,9
+1,Face Mask Set,Set of five reusable fabric face masks.,2025-06-25,2025-08-06,19.99,9
+1,Honeycrisp Apples,"Crisp and sweet Honeycrisp apples, freshly picked.",2024-12-19,2025-09-02,1.89,61
+1,Almond Joy Snack Bars,Chewy snack bars with coconut and almonds coated in chocolate.,2025-02-07,2025-07-26,2.99,51
+1,Thyme,,2025-07-05,2025-08-06,2.49,41
+1,Noise Reduction Headphones,Passive noise reduction headphones for focus.,2025-06-23,2025-10-12,39.99,1
+1,Mushroom Soup (canned),Creamy soup full of rich mushroom flavor.,2025-04-16,2025-09-17,2.49,19
+1,Steak Seasoning Rub,A blend of spices perfect for seasoning steak.,2024-11-20,2025-07-03,2.49,90
+1,Sooji (Semolina),"Fine semolina flour, perfect for pasta and desserts.",2025-04-19,2025-09-09,1.99,71
+1,Fitness Mat,Thick and durable mat for workouts and yoga.,2025-07-12,2025-08-25,49.99,96
+1,Sesame Garlic Stir-Fry Sauce,A flavorful sauce for stir-frying vegetables and meats.,2025-03-30,2025-08-07,2.79,24
+1,Magnetic Curtain Tiebacks,Easy-to-use tiebacks for curtains or drapes.,2025-09-04,,12.99,85
+1,Streaming Device,HD streaming device for accessing popular services.,2025-01-01,2025-09-12,49.99,74
+1,Magnetic Spice Jars,Convenient magnetic jars for easy spice storage.,2025-04-10,2025-10-23,24.99,41
+1,Terry Cloth Robe,"Soft and comfortable robe, perfect for lounging at home.",2025-06-21,2025-10-03,59.99,33
+1,Mini Hand Gesture Drone,Toy drone that flies with gestures and is easy to control.,2025-07-31,2025-10-13,29.99,73
+1,Multi-Port USB Hub,USB hub for expanding ports on computers and laptops.,2025-05-29,2025-10-04,19.99,30
+1,Sweet Cherry Tomatoes,Fresh and juicy cherry tomatoes for salads and snacking.,2025-02-21,2025-10-18,2.99,62
+1,Vegetable Stir Fry Mix,A mix of fresh vegetables for quick stir-fries.,2024-12-22,2025-07-18,3.29,29
+1,Gardening Gloves with Claws,Durable gloves with built-in claws for digging and planting.,2025-08-31,2025-08-24,24.99,13
+1,Frozen Mixed Berries,"A mix of strawberries, blueberries, and raspberries.",2025-10-31,2025-07-18,5.99,40
+1,Avocado Oil Mayo,Creamy mayonnaise made with avocado oil for a healthier twist.,2025-05-05,2025-07-03,5.29,47
+1,Pesto Pasta Salad,Cold pasta salad tossed with pesto and fresh vegetables.,2025-07-11,2025-10-17,4.99,69
+1,Cranberry Almond Biscotti,,2024-11-10,2025-09-02,4.19,68
+1,Peach & Mango Salsa,"A zesty salsa made with peaches and mangos, great for chips.",2025-01-18,2025-09-25,4.49,34
+1,Mini Projector,Portable projector with 1080p resolution for movies.,2025-03-24,2025-09-04,169.99,55
+1,Essential Oil Diffuser,,2025-09-13,2025-10-27,34.99,90
+1,Baking Soda,Essential ingredient for baking and cooking.,2025-05-11,2025-09-07,0.99,82
+1,Garlic Butter Sauce,A rich sauce perfect for pasta or drizzling over vegetables.,2025-08-10,2025-10-20,3.59,28
+1,High-Quality Yoga Mat,Non-slip mat designed for yoga and fitness exercises.,2025-06-07,2025-09-03,34.99,49
+1,Organic Vanilla Bean Ice Cream,"Creamy ice cream made with real vanilla beans, perfect for desserts.",2025-02-24,2025-08-02,5.99,48
+1,Ceramic Knife Set,Set of ceramic knives for precision slicing.,2025-03-20,2025-10-29,39.99,54
+1,Sweet BBQ Dipping Sauce,Perfectly balanced sweet and tangy BBQ sauce for dipping or grilling.,2025-08-09,2025-08-31,3.49,81
+1,Colorful Post-It Notes Set,Variety pack of sticky notes in different colors and sizes.,2025-11-03,2025-07-11,9.99,95
+1,Magnetic Puzzle Board,Magnetic puzzle assembly board for kids.,2025-07-19,2025-09-17,24.99,21
+1,Rustic Italian Breads,Freshly baked artisan bread with a crisp crust and soft center.,2025-07-04,2025-07-27,3.99,4
+1,Fishing Rod,Lightweight fishing rod suitable for beginners.,2025-10-17,2025-09-01,49.99,67
+1,Noise Reduction Headphones,Passive noise reduction headphones for focus.,2024-12-02,2025-10-30,39.99,83
+1,Almond Joy Munch Bars,"A delightful mix of chocolate, coconut, and almonds in a snack bar.",2025-05-30,2025-08-10,1.39,99
+1,Toy Building Set,Creative building set for kids to spark imagination.,2025-08-05,2025-10-12,29.99,2
+1,Natural Peanut Butter,Creamy peanut butter with no added sugar or oils.,2025-08-27,2025-08-25,4.29,17
+1,Teriyaki Chicken Stir-Fry,"Frozen stir-fry mix with chicken, veggies, and teriyaki sauce.",2025-06-27,2025-10-31,6.99,77
+1,Plant Growing Kit,Complete kit for growing herbs indoors.,2025-07-17,,22.99,82
+1,Wooden Children's Play Kitchen,Interactive kitchen set for imaginative play.,2025-10-20,2025-08-28,129.99,26
+1,Window Bird Feeder,Suction cup bird feeder for close-up bird watching.,2025-04-05,2025-08-22,19.99,35
+1,Apple Cinnamon Granola,A wholesome granola with bits of apple and a touch of cinnamon.,2025-01-20,2025-08-06,4.49,26
+1,Travel Hair Straightener,Compact hair straightener for travel.,2025-01-17,2025-09-27,29.99,97
+1,Chocolate Covered Pretzels,"Crunchy pretzels coated in rich chocolate, a sweet treat.",2025-06-28,2025-07-08,3.29,36
+1,Dried Mango Slices,"Sweet and chewy dried mango slices, perfect for snacking.",2025-05-25,2025-10-18,3.49,58
+1,Pumpkin Spice Cookies,Delicious cookies flavored with pumpkin and spices.,2025-04-04,2025-08-17,3.29,77
+1,Organic Coconut Water,Refreshing coconut water packed with electrolytes for hydration.,2024-12-04,2025-09-08,2.79,25
+1,Low-Fat Yogurt,"Creamy yogurt with probiotics, available in various flavors.",2025-09-23,2025-09-15,3.29,99
+1,Travel Luggage Scale,Digital scale to avoid overweight baggage fees.,2025-09-18,2025-08-23,14.99,36
+1,Pet Safety Belt for Car,Seat belt attachment to keep dogs safe during car rides.,2025-08-14,2025-08-03,14.99,35
+1,Coffee Subscription Service,Monthly subscription for freshly roasted coffee delivered to your door.,2025-07-28,2025-10-06,29.99,55
+1,Pepper Jack Cheese Slices,"Creamy cheese with a spicy kick, perfect for sandwiches.",2024-12-17,2025-11-04,3.49,81
+1,Mediterranean Couscous Salad,"Couscous salad with cucumbers, tomatoes, feta, and olives, ready to eat.",2025-03-26,2025-08-05,5.49,2
+1,Sriracha Hot Chili Sauce,Spicy and tangy chili sauce for adding heat to any dish.,2025-07-30,2025-09-07,2.99,88
+1,Magnetic Whiteboard,Reusable whiteboard for notes and reminders with magnetic backing.,2024-11-30,2025-07-14,34.99,87
+1,Vegan Protein Powder,Plant-based protein powder for post-workout recovery.,2025-10-14,2025-08-25,34.99,9
+1,V-Neck Sweater,Classic V-neck sweater crafted from soft wool for warmth and style.,2025-09-28,2025-07-04,49.99,32
+1,Italian Meatballs,"Juicy meatballs made with a blend of beef and pork, seasoned with Italian herbs.",2025-04-30,2025-09-20,8.49,64
+1,Fitbit Activity Tracker,Advanced wristband that tracks daily activities and sleep.,2025-05-24,2025-09-21,99.99,57
+1,Sriracha Sauce,Spicy chili sauce for an extra kick in your meals.,2025-04-19,2025-10-15,3.19,44
+1,Suede Ankle Booties,"Chic suede ankle booties, perfect for dressing up or down.",2024-12-05,2025-08-17,79.99,66
+1,Vegan Mac & Cheese,Creamy vegan mac and cheese made with cashew cheese.,2024-11-23,2025-08-03,8.99,26
+1,Jasmine Rice,"Fragrant jasmine rice, perfect as a side dish.",2024-12-22,2025-08-29,2.39,94
+1,Mesh Sports Leggings,Breathable mesh sports leggings for ultimate comfort.,2025-02-12,2025-10-31,39.99,62
+1,Personal Blender with Travel Cup,Blender for smoothies with a portable cup.,2025-09-27,2025-07-20,39.99,74
+1,Peach Green Tea,"Refreshing green tea infused with peach, perfect for a hot day.",2024-11-29,2025-07-26,3.49,74
+1,Mango Chunks,Frozen mango chunks for smoothies or snacking.,2025-09-20,2025-09-25,4.89,4
+1,Garlic Butter Sauce,A rich sauce perfect for pasta or drizzling over vegetables.,2025-07-02,2025-08-29,3.59,53
+1,Set of Silicone Baking Molds,Flexible molds perfect for baking cakes and pastries.,2025-09-02,2025-08-01,15.99,95
+1,Multi-Purpose Plant Care Tool,"All-in-one tool for measuring soil moisture, light, and pH.",2025-07-06,2025-10-20,24.99,36
+1,Lightweight Travel Backpack,Compact and portable backpack for day trips and travel.,2025-08-30,2025-07-03,39.99,63
+1,Spicy Snack Mix,A crunchy blend of nuts and pretzels with a spicy kick.,2025-02-06,2025-10-23,4.99,37
+1,Portable Solar Phone Charger,Eco-friendly charger that uses solar energy for powering devices.,2024-12-12,2025-07-06,29.99,59
+1,Heavy-Duty Utility Tote,"Large, durable tote bag for shopping and outdoor activities.",2025-06-16,2025-09-07,34.99,4
+1,Honey Garlic Sauce,,2025-03-30,2025-08-13,2.59,8
+1,Ice Cream,"Rich and creamy ice cream, available in various flavors.",2025-10-17,2025-11-03,5.99,85
+1,Pasta Primavera,Frozen vegetable primavera for quick meals.,2025-03-21,2025-08-10,4.99,97
+1,Chocolate Raspberry Tart,,2024-12-30,2025-08-31,9.99,16
+1,Chocolate Hazelnut Spread,"A creamy spread made with chocolate and hazelnuts, perfect for toast.",2025-05-06,2025-11-02,5.99,67
+1,Electric Stir Fry Pan,Large stir fry pan with non-stick surface.,2025-09-08,2025-07-12,49.99,71
+1,Camping Tarp,Durable tarp for outdoor camping and protection.,2025-02-11,2025-11-03,32.99,31
+1,Pineapple Coconut Rice Mix,A flavorful blend of rice with tropical pineapple and coconut flavors.,2025-08-30,2025-07-28,3.99,23
+1,Mini Projector,,2024-11-19,2025-07-12,169.99,16
+1,Garlic Butter Shrimp,"Frozen shrimp sautéed in garlic butter, ready to thaw and serve over pasta or rice.",2024-11-21,,8.99,60
+1,Rustic Wooden Picture Frame,Charming frame to showcase your favorite photos.,2024-12-28,2025-10-29,19.99,65
+1,Camping Tent,Spacious 2-person camping tent with waterproof cover.,2025-02-19,2025-09-26,79.99,1
+1,Wall-Mounted Wine Rack,Stylish and modern holder for storing wine bottles on walls.,2025-11-05,2025-08-12,39.99,53
+1,Portable Hammock with Stand,Lightweight hammock with a sturdy stand for relaxation anywhere.,2025-01-16,2025-09-03,69.99,88
+1,Air Purifier,HEPA air purifier for clean indoor air.,2025-02-26,2025-10-20,129.99,14
+1,Sliced Ham,"Delicious and fully cooked sliced ham, ready to eat.",2025-03-21,2025-07-04,5.49,81
+1,Mini Projector,Portable projector with 1080p resolution for movies.,2025-03-03,2025-08-23,169.99,49
+1,Fruit and Nut Energy Bites,Natural energy bites packed with fruits and nuts for a perfect snack.,2025-01-19,2025-10-11,2.99,2
+1,Car Vacuum Cleaner,Compact vacuum designed specifically for cleaning vehicles.,2025-08-07,2025-09-04,39.99,91
+1,Kids' STEM Robotics Kit,Educational robotics kit for building and programming.,2024-12-08,2025-09-11,59.99,27
+1,Children's Gardening Set,Fun gardening tools designed specifically for kids.,2025-07-22,2025-10-13,19.99,91
+1,Outdoor Folding Table,Lightweight and portable folding table for camping or picnics.,2025-07-02,2025-08-20,39.99,58
+1,Camping Chair with Cooler,Foldable chair equipped with a cooler pouch.,2025-07-01,2025-09-25,49.99,56
+1,Reusable Snack Bags,Eco-friendly reusable bags for snacks.,2025-01-15,2025-08-14,14.99,81
+1,Classic Minestrone Soup,Hearty minestrone soup loaded with vegetables and pasta.,2025-04-20,2025-08-21,2.99,23
+1,Portable Pet Stroller,Convenient stroller for pets to enjoy outdoor walks.,2025-04-06,2025-07-02,89.99,33
+1,Herb Seasoned Rice,A flavorful rice side dish seasoned with herbs and spices.,2024-12-10,2025-07-16,2.99,82
+1,Digital Photo Frame,Wi-Fi-enabled digital frame for displaying photos.,2024-12-30,2025-09-21,79.99,68
+1,Non-Stick Baking Sheets,Set of baking sheets for effortless baking.,2024-11-08,2025-10-19,29.99,17
+1,Chocolate Fudge Brownie Mix,Just add water for delicious brownies.,2025-01-12,2025-07-15,2.99,46
+1,Plant-Based Meal Prep Containers,Eco-friendly meal prep containers for healthy eating.,2025-10-07,2025-10-03,18.99,94
+1,V-Neck Sweater,Classic V-neck sweater crafted from soft wool for warmth and style.,2025-10-15,2025-08-02,49.99,31
+1,Stuffed Bell Peppers,Bell peppers stuffed with rice and vegetables,2025-09-02,2025-08-21,5.99,24
+1,Vegetarian Sausage Links,Plant-based sausage links with spices and herbs.,2025-10-25,2025-09-07,5.89,58
+1,Veggie Chips Variety Pack,A colorful variety of crunchy veggie chips for snacking.,2025-08-24,2025-10-14,3.79,9
+1,Action Camera,Compact action camera for capturing adventures.,2024-11-17,2025-09-22,199.99,12
+1,Tomato Sauce,Rich and flavorful tomato sauce for pasta or pizza.,2025-06-18,2025-09-22,2.79,61
+1,Sweet Potatoes (organic),"Fresh organic sweet potatoes, great for roasting or mashing.",2024-11-08,2025-10-15,1.99,64
+1,Chipotle Black Bean Burger,"Spicy black bean burgers, great on the grill.",2024-11-28,2025-09-09,4.99,16
+1,Sesame Noodles,"Chilled noodles dressed in sesame sauce, ready to eat.",2025-02-19,2025-08-30,5.99,61
+1,Quinoa and Kale Salad Kit,"Ready-to-eat salad with quinoa and kale, drizzled with vinaigrette.",2025-08-07,2025-07-29,5.29,2
+1,Ginger Tea,A soothing herbal tea made from ginger root.,2025-05-21,2025-07-13,4.99,60
+1,Stainless Steel Water Bottle,Durable and insulated water bottle to keep beverages cold.,2025-08-26,2025-09-24,25.99,79
+1,Mini Fondue Set,Complete fondue set for chocolate and cheese parties.,2024-12-21,2025-07-31,34.99,14
+1,Pet Training Pads,Absorbent training pads for puppies and kittens.,2025-02-10,2025-09-03,24.99,58
+1,Sweet Potato Mash,"Creamy mashed sweet potatoes, ready to heat and serve.",2025-10-26,2025-10-31,3.99,87
+1,Strawberry Fruit Spread,Natural fruit spread bursting with real strawberry flavor.,2025-09-18,2025-10-22,3.59,28
+1,Spinach and Cheese Stuffed Shells,Delicious pasta shells filled with spinach and cheese,2025-04-14,2025-10-08,5.99,16
+1,Pineapple Salsa,Fresh salsa made with pineapple and spices,2024-12-09,2025-08-28,4.29,97
+1,Wireless Range Extender,Boost your Wi-Fi signal for better coverage.,2024-12-15,2025-07-11,49.99,92
+1,Grapes (red),,2025-09-23,2025-09-17,3.49,2
+1,Desk Lamp with USB Port,Modern desk lamp that features a built-in USB charging port.,2025-10-09,2025-08-10,29.99,70
+1,Portable Campfire,Compact campfire for grilling and warmth during camping trips.,2025-01-22,2025-08-08,39.99,40
+1,Barbecue Chicken Pizza,"Pizza topped with barbecue chicken, cheese, and red onions.",2025-02-22,2025-07-16,8.99,72
+1,Pumpkin Spice Cookies,Delicious cookies flavored with pumpkin and spices.,2025-08-11,2025-09-06,3.29,65
+1,Jump Rope with Counter,Durable jump rope with built-in counter for workouts.,2025-03-10,2025-07-11,12.99,79
+1,Gaming Mousepad,Oversized gaming mousepad with smooth surface.,2025-01-21,2025-08-28,19.99,45
+1,Travel Jewelry Case,Portable case to organize and protect jewelry on trips.,2025-08-21,2025-07-20,24.99,61
+1,Vegan Mayonnaise,Plant-based mayonnaise for a creamy taste.,2025-07-21,2025-09-30,4.49,77
+1,Bamboo Cutting Board,Eco-friendly bamboo cutting board for food prep.,2025-04-27,2025-09-09,22,86
+1,Vegetarian Stuffed Peppers,"Bell peppers stuffed with rice, beans, and spices, ready to bake.",2024-12-25,2025-10-09,4.99,18
+1,Nature Explorer Lens Kit,Magical lens kit for kids to explore the outdoors.,2025-11-04,2025-10-18,19.99,10
+1,Pumpkin Seeds,"Crunchy roasted pumpkin seeds, great for snacking.",2025-02-11,2025-10-12,2.79,27
+1,Honey-Balsamic Vinaigrette,A sweet and tangy vinaigrette dressing for salads.,2025-06-21,2025-09-06,3.39,21
+1,Portable Camping Stove,Compact camp stove for outdoor cooking.,2024-11-08,2025-11-02,49.99,23
+1,Portable Hand Warmer,Rechargeable hand warmer for cold weather comfort.,2025-01-22,2025-08-08,24.99,14
+1,Honey Mustard Sauce,Creamy honey mustard sauce for dipping or dressing.,2025-06-15,2025-10-31,3.29,65
+1,Leather Notebook Cover,Elegant cover that protects your notebook with style.,2025-02-25,2025-09-14,29.99,26
+1,Brussels Sprouts,,2025-05-15,2025-09-20,3.49,57
+1,Wireless Mouse,Ergonomic wireless mouse with adjustable DPI.,2024-11-06,2025-10-04,25.99,29
+1,Peach Preserves,"Sweet and fruity peach preserves, perfect for spreading on toast.",2025-06-22,2025-10-06,3.79,47
+1,Blueberry Oatmeal Cups,Instant oatmeal cups with blueberries for an easy breakfast.,2024-12-28,2025-09-27,3.29,67
+1,Toasted Coconut Granola,"Crunchy granola with toasted coconut flakes, perfect for breakfast or snacks.",2024-11-17,2025-09-07,4.99,11
+1,Mini Meatballs,Frozen mini meatballs that are great as a snack or in pasta dishes.,2025-06-03,2025-09-27,5.99,4
+1,Personal Safety Alarm,,2024-11-18,,12.99,39
+1,Dish Soap Dispenser,Stylish dish soap dispenser with sponge holder.,2025-03-21,2025-09-05,18.99,76
+1,Foot Massager Machine,Electric foot massager for relaxation and relief.,2025-08-25,2025-08-11,59.99,65
+1,Garden Hose,Durable 50-foot garden hose with nozzle.,2025-02-13,2025-09-14,32.99,60
+1,Pressure Washer Accessories Kit,Essential attachments for pressure washing.,2025-09-29,2025-09-17,39.99,2
+1,Chewy Granola Bars,Oats and honey bars with a chewy texture and nutty flavor.,2025-07-22,,3.49,24
+1,Magnetic Spice Jars,Convenient magnetic jars for easy spice storage.,2025-02-26,2025-10-17,24.99,34
+1,Cocoa Powder,,2024-11-12,2025-08-31,3.99,5
+1,Stainless Steel Water Pitcher,Insulated pitcher to keep beverages cold or hot.,2025-01-19,2025-10-28,39.99,56
+1,Carrot Ginger Soup,"Smooth soup made from carrots and ginger, great for cold days.",2024-12-20,2025-09-23,4.29,47
+1,Lentil Pasta,"Gluten-free pasta made from lentils, high in protein.",2024-12-11,2025-11-02,4.99,21
+1,Plant-Based Protein Bars,Nutritious protein bars for on-the-go snacking.,2024-12-24,2025-11-04,19.99,79
+1,Kids' Trampoline,Safe and fun trampoline for children.,2025-01-27,2025-10-14,139.99,87
+1,Yoga Mat Carrier,Convenient carrier for transporting yoga mat.,2025-07-04,2025-09-21,12.99,77
+1,Trackpad for Laptop,Wireless trackpad for enhanced laptop navigation.,2025-01-22,2025-08-08,49.99,79
+1,Compact Hair Dryer,Lightweight hair dryer with multiple speed settings.,2025-04-15,2025-09-20,29.99,89
+1,Coffee Grinder,Burr coffee grinder for fresh ground coffee.,2025-10-10,2025-07-03,39.99,63
+1,Savory Quinoa Pudding,"A delicious savory quinoa pudding, great as a side dish.",2025-05-14,2025-08-30,2.99,27
+1,Slingback Sandals,Chic slingback sandals for a relaxed summer vibe.,2025-07-17,2025-08-30,29.99,45
+1,Caramelized Onion Dip,"Creamy dip made with caramelized onions, perfect for chips or veggies.",2025-04-09,2025-09-29,3.99,59
+1,Wireless Keyboard and Mouse Combo,Compact wireless set for easy computer usability.,2025-02-07,2025-08-23,34.99,78
+1,Smart Wi-Fi Light Bulbs,Energy-efficient LED bulbs that can be controlled via smartphone.,2025-04-29,2025-09-24,19.99,51
+1,Fruit Medley Juice,Refreshing juice blend made with various fresh fruits.,2025-04-22,2025-07-16,3.49,26
+1,Pet Waterer with Filtration,Automatic waterer that filters and provides fresh drinking water for pets.,2025-01-07,2025-11-04,39.99,75
+1,Eco-Friendly Cleaning Cloths,Reusable microfiber cloths for environmentally friendly cleaning.,2025-06-15,2025-09-30,12.99,70
+1,Portable Speaker Stand,Adjustable stand for portable speakers and devices.,2025-08-09,2025-08-14,39.99,43
+1,Hummus Variety Pack,"A selection of different flavored hummus, great for snacking.",2025-07-04,2025-07-25,5.99,43
+1,Solar Charger,Portable solar charger for outdoor adventures.,2025-03-20,2025-09-27,39.99,23
+1,Sliced Strawberries,Fresh sliced strawberries for toppings or snacking,2025-06-23,2025-08-27,4.99,95
+1,Stainless Steel Mixing Bowls,Set of versatile mixing bowls for cooking.,2025-01-18,2025-08-13,29.99,81
+1,Multifunctional Pocket Tool,Compact pocket tool with various built-in functions.,2024-11-10,2025-08-28,19.99,47
+1,Pet Training Pads,Absorbent training pads for puppies and kittens.,2025-08-19,,24.99,28
+1,Cotton Quilted Throw Blanket,Cozy throw blanket perfect for adding warmth to your home.,2024-12-17,2025-09-14,39.99,79
+1,Beef Enchilada Casserole,Hearty casserole with beef and enchilada sauce.,2025-02-22,2025-09-24,8.99,100
+1,Ramen Noodles,Quick-cooking ramen for instant meals.,2024-12-18,2025-10-09,0.99,45
+1,Smoky BBQ Jackfruit,Pulled jackfruit in a smoky BBQ sauce for a tasty vegan dish.,2025-10-02,2025-07-31,4.99,17
+1,Arcade Game Machine,Retro arcade machine for classic gaming.,2025-03-25,2025-07-15,299.99,96
+1,Pomegranate Juice,"Fresh pomegranate juice, rich in antioxidants.",2025-08-24,2025-10-16,4.49,18
+1,Deluxe First Aid Kit,Comprehensive first aid kit for home and travel.,2025-05-07,2025-08-29,39.99,48
+1,Drone,Beginner-friendly drone with HD camera.,2025-08-13,2025-07-30,249.99,39
+1,Dog Car Seat Cover,Waterproof cover to protect car seats from pet hair and dirt.,2025-05-04,2025-09-21,39.99,27
+1,Sesame Garlic Noodles,Delicious noodles tossed in a sesamegarlic sauce.,2025-03-25,2025-07-17,3.49,46
+1,Smartwatch,Stylish smartwatch with fitness tracking features.,2025-02-10,2025-07-21,199.99,48
+1,Interactive Robot Toy,Fun robot that engages kids with games and activities.,2025-09-25,2025-10-08,34.99,43
+1,Lightweight Workout Tank,Breathable tank top perfect for workouts or casual wear.,2025-04-07,2025-10-12,29.99,22
+1,Greek Feta Cheese,Creamy and crumbly cheese for salads and dishes.,2025-04-13,2025-07-24,4.99,85
+1,Slim Wallet,RFID-blocking slim wallet for cards and cash.,2024-12-13,2025-09-05,24.99,42
+1,Non-Toxic Crayons for Kids,Safe and vibrant crayons for children's art projects.,2025-02-22,2025-09-22,10.99,1
+1,Athletic Compression Tights,High-performance compression tights designed for optimal support and comfort.,2024-11-26,2025-07-22,39.99,27
+1,Cinnamon Sugar Tortilla Chips,"Crispy chips with a sweet twist, perfect for dipping.",2025-06-27,2025-07-13,3.29,37
+1,Vegan Protein Powder,Plant-based protein powder for post-workout recovery.,2025-03-11,2025-10-28,34.99,38
+1,Suede Ankle Booties,,2025-07-18,2025-09-22,79.99,60
+1,Garden Tool Set with Carrying Bag,Complete set for garden care with a handy carrying bag.,2025-04-02,,39.99,57
+1,Coconut Cream,"Rich cream extracted from coconut milk, ideal for desserts.",2025-03-20,2025-10-01,2.99,94
+1,Outdoor Adventure Kit,Complete outdoor kit for camping and hiking.,2025-01-24,2025-08-22,89.99,83
+1,Cinnamon Spiced Almonds,Crispy almonds coated with cinnamon and sugar for a sweet and crunchy snack.,2025-06-09,2025-09-06,5.99,70
+1,Barbecue Chicken Pizza,"Pizza topped with barbecue chicken, cheese, and red onions.",2025-04-11,2025-10-18,8.99,92
+1,Buffalo Chicken Dip,"Spicy and creamy dip made with shredded chicken, perfect for parties.",2025-04-17,2025-10-13,5.99,94
+1,Self-Inflating Camping Mattress,Comfortable camping mattress that inflates automatically.,2025-08-02,2025-07-01,49.99,39
+1,Silicone Cooking Utensils Set,Non-stick and heat-resistant utensils for cooking.,2025-07-18,2025-09-25,34.99,76
+1,Solar Power Bank,Eco-friendly power bank that charges via sunlight.,2025-03-13,2025-07-14,39.99,52
+1,LED Makeup Mirror,Illuminated vanity mirror with adjustable brightness settings.,2025-02-13,2025-07-31,39.99,82
+1,Adjustable Yoga Mat Strap,Convenient strap for carrying yoga mats to class.,2025-03-11,2025-09-02,14.99,22
+1,Smart Plant Monitor,Device that tracks soil moisture and provides care tips.,2025-03-23,2025-07-14,24.99,20
+1,Bicycle Repair Kit,Essential tools for on-the-go bike maintenance.,2025-09-08,2025-10-27,14.99,80
+1,Kitchen Knife Sharpening System,Professional sharpening system for kitchen knives.,2025-02-09,2025-08-12,39.99,47
+1,Potato Wedge Seasoning,Seasoning mix for making crispy and flavorful potato wedges.,2025-07-30,2025-10-16,2.49,10
+1,Mediterranean Couscous Salad,"Couscous salad with cucumbers, tomatoes, feta, and olives, ready to eat.",2025-06-24,2025-08-04,5.49,72
+1,Infrared Space Heater,Energy-efficient infrared heater for home use.,2024-12-02,2025-08-14,99.99,16
+1,Electric Opener for Jars and Bottles,Easily opens jar lids and bottle caps with one touch.,2025-03-24,,24.99,15
+1,Indoor Plants,Assorted indoor plants for home decor.,2025-10-06,2025-07-30,19.99,55
+1,Classic White T-Shirt,A timeless wardrobe staple crafted from soft cotton with a perfect fit.,2024-11-29,2025-07-21,19.99,67
+1,Wildflower Honey,Natural honey sourced from wildflowers.,2025-08-21,2025-07-08,4.99,7
+1,Vegetable and Cheese Quesadillas,Flour tortilla filled with cheese and a medley of vegetables.,2025-02-17,2025-10-04,6.99,13
+1,Sunglasses,Polarized sunglasses with UV protection.,2025-08-22,2025-07-03,29.99,96
+1,Induction Cooktop,Portable induction cooktop for quick heating.,2025-05-24,2025-07-05,89.99,43
+1,Chiffon Blouse,Elegant chiffon blouse perfect for work or outings.,2025-06-29,2025-07-23,39.99,40
+1,Ginger Turmeric Latte Mix,A warming blend of ginger and turmeric for lattes.,2025-03-25,2025-09-04,5.29,15
+1,Luxury Bath Robe,Soft and plush robe for comfort after the shower.,2025-03-08,2025-10-13,49.99,99
+1,Classic Black Dress,A versatile black dress that can be styled for any occasion.,2025-08-17,2025-08-22,79.99,39
+1,Granola Bars,"Crispy and chewy granola bars, perfect for on-the-go.",2025-04-14,2025-10-12,4.99,97
+1,Foldable Picnic Table,Lightweight and portable picnic table for outdoor use.,2025-01-12,2025-09-29,49.99,49
+1,Frozen Salmon Filets,,2025-02-23,2025-10-07,12.99,89
+1,Sesame Ginger Dressing,"Tangy dressing perfect for salads and marinades, with sesame and ginger flavors.",2025-06-02,,4.09,51
+1,Smartphone Projector Kit,DIY kit to convert your smartphone into a mini projector.,2024-11-07,2025-08-20,24.99,36
+1,Coloring Books for Adults,Intricate designs for adults to relax and unwind.,2024-12-29,2025-08-21,14.99,31
+1,3D Night Light,Color-changing 3D night light for kids' rooms.,2025-07-08,2025-09-15,19.99,37
+1,Couscous Mix,"Fluffy couscous that cooks in just minutes, perfect as a side.",2025-01-21,2025-07-14,2.49,57
+1,Portable Projector,Compact projector for movies and presentations on the go.,2025-09-30,2025-09-03,199.99,34
+1,Sporty Leggings,Functional leggings designed for maximum comfort during workouts.,2025-08-15,2025-09-19,39.99,99
+1,Coconut Curry Lentils,Lentils cooked in a coconut curry for a hearty meal.,2025-03-24,2025-07-03,5.79,55
+1,Ripped Boyfriend Jeans,"Stylish ripped boyfriend jeans for a relaxed, effortlessly cool vibe.",2025-02-09,2025-07-18,54.99,100
+1,Ice Cube Tray with Lid,Silicone tray for making ice cubes with a lid to prevent spills.,2025-02-26,2025-07-14,10.99,86
+1,Cranberry Pecan Granola,Crunchy granola with cranberries and pecans.,2025-11-03,2025-07-11,3.99,41
+1,Mini Projector,Portable projector with 1080p resolution for movies.,2025-10-14,2025-10-13,169.99,81
+1,Lightweight Travel Backpack,Compact and portable backpack for day trips and travel.,2025-03-08,2025-08-21,39.99,17
+1,Ultra-Thin Laptop Sleeve,Sleek and protective sleeve for laptops and tablets.,2025-01-04,2025-11-04,19.99,37
+1,Carrot Ginger Soup,"Smooth soup made from carrots and ginger, great for cold days.",2025-08-24,2025-07-08,4.29,41
+1,Memory Foam Mattress Topper,3-inch memory foam mattress topper for added comfort.,2025-07-11,2025-08-10,109.99,51
+1,Children's Garden Tool Set,Colorful and child-friendly gardening tools for little hands.,2025-04-24,2025-09-20,22.99,16
+1,V-Neck Sweater,Classic V-neck sweater crafted from soft wool for warmth and style.,2025-03-16,,49.99,57
+1,Arcade Game Machine,Retro arcade machine for classic gaming.,2025-08-13,2025-07-06,299.99,57
+1,Lemon Pepper Seasoning,A zesty seasoning for meats and vegetables,2025-04-26,2025-08-22,3.29,6
+1,Honeycrisp Apple Chips,Crispy and sweet dried apple slices,2025-07-04,2025-10-19,3.49,31
+1,Lightweight Rain Jacket,"Water-resistant jacket ideal for outdoor activities, featuring a packable design.",2025-06-22,2025-09-20,79.99,22
+1,Luxury Bath Robe,Soft and plush robe for comfort after the shower.,2025-03-30,2025-07-16,49.99,41
+1,Lentil Vegetable Stew,"Hearty stew made with lentils and mixed vegetables, vegan-friendly.",2025-01-19,2025-10-30,4.49,2
+1,Wireless HDMI Receiver,Stream HD video wirelessly from devices to TV.,2025-05-11,2025-07-19,49.99,96
+1,Vegetable and Cheese Quesadillas,Flour tortilla filled with cheese and a medley of vegetables.,2025-04-30,2025-09-20,6.99,45
+1,Memory Foam Mattress Topper,3-inch memory foam mattress topper for added comfort.,2025-06-27,2025-09-29,109.99,40
+1,Beef Stroganoff Mix,Everything you need to create a hearty beef stroganoff.,2025-07-19,2025-07-26,5.49,24
+1,Cotton Tote Bag Set,Reusable tote bags for shopping and eco-friendly living.,2025-04-05,2025-10-12,29.99,81
+1,Strawberry Banana Smoothie Pack,Frozen smoothie pack with strawberries and bananas.,2025-02-17,2025-07-27,4.99,98
+1,Canvas Tote Bag,"Durable canvas tote bag, perfect for everyday use.",2024-12-06,2025-11-03,19.99,13
+1,Pineapple Rings,Delicious canned pineapple rings for desserts or salads.,2024-12-12,2025-08-07,2.49,73
+1,Vegetable Curry,A hearty vegetable curry for a quick and satisfying meal.,2025-10-02,2025-11-01,5.99,52
+1,Beef Taco Skillet,A convenient meal kit for making a delicious beef taco skillet at home.,2025-01-15,2025-10-28,8.49,14
+1,Mediterranean Olives,A mix of brined Mediterranean olives for snacking.,2025-05-12,2025-08-03,6.49,27
+1,Smart WiFi Plug,Control appliances remotely using your smartphone.,2025-04-13,2025-09-15,19.99,98
+1,Honey Mustard Dip,Sweet and tangy honey mustard dip for snacks.,2024-12-12,2025-08-08,3.29,58
+1,Mediterranean Chickpea Bowl,"Chickpeas served with olives, feta, and hummus, a healthy meal.",2025-08-03,2025-08-12,6.49,91
+1,Compact Portable Grill,Easy-to-use portable grill for barbecues.,2024-11-08,2025-10-22,79.99,74
+1,Garlic Herb Seasoning,A blend of herbs and garlic for seasoning meats and vegetables.,2025-04-26,2025-07-28,1.99,71
+1,Scent Diffuser Oil,Essential oil blends for a soothing atmosphere in your home.,2025-07-12,2025-10-21,14.99,34
+1,Denim Jacket,A classic denim jacket that never goes out of style.,2025-07-13,2025-09-25,69.99,25
+1,Pet Grooming Kit,Complete grooming kit for dogs and cats.,2025-11-01,2025-08-29,39.99,46
+1,Digital Bullet Journal,Stylish digital journaling app for notes and organizing tasks.,2025-07-10,2025-07-15,24.99,72
+1,Wall-Mounted Spice Rack,Space-saving rack to store and organize spices conveniently.,2025-10-25,2025-07-14,39.99,8
+1,Portable Camping Shower,Convenient shower system for camping and outdoor activities.,2025-02-04,,39.99,27
+1,Heat-Resistant Silicone Mat,Protects surfaces while baking or cooking with hot items.,2025-07-06,2025-09-09,19.99,2
+1,Organic Baby Carrots,Fresh and crunchy baby carrots ready for snacking.,2025-05-12,2025-08-28,2.99,10
+1,Compost Bin,,2025-07-21,2025-07-18,29.99,96
+1,Warm Knit Beanie,Stay warm with this stylish knit beanie in various colors.,2024-12-14,2025-07-02,19.99,21
+1,Balsamic Glaze,,2025-10-02,2025-07-12,4.79,65
+1,Coconut Chia Pudding,Creamy chia pudding made with coconut milk and topped with mango.,2025-02-25,2025-07-06,3.49,69
+1,Ankle Boots,"Stylish leather ankle boots with a block heel, perfect for fall styling.",2024-12-08,2025-07-25,89.99,40
+1,Sun Protection Clothing,UV-blocking clothing for outdoor activities.,2025-03-06,2025-11-03,44.99,81
+1,Sweet Potato Fries,"Crispy sweet potato fries, a delicious side dish.",2025-08-11,2025-08-26,3.99,15
+1,Ramen Noodles,Quick-cooking ramen for instant meals.,2024-11-15,,0.99,47
+1,Miso Dressing,Flavorful dressing made with miso paste,2025-01-27,2025-08-01,3.49,83
+1,Outdoor Sports Backpack,Durable backpack designed for hiking and outdoor excursions.,2025-04-26,2025-08-28,49.99,36
+1,Gingerbread House Kit,Everything you need to build a festive gingerbread house.,2025-01-09,2025-10-07,6.99,53
+1,Portable Phone Mug Holder,Convenient holder for drinks and phones while driving.,2025-08-02,2025-08-25,14.99,60
+1,Garlic Herb Cream Cheese,Spreadable cream cheese blended with garlic and herbs.,2025-07-22,2025-10-12,2.99,71
+1,Air Purifier,HEPA air purifier for clean indoor air.,2025-09-13,2025-07-26,129.99,30
+1,Pet Grooming Scissors,Quality scissors designed for easy pet grooming.,2025-04-17,2025-08-31,16.99,74
+1,Phone Screen Protector,Tempered glass screen protector for smartphones.,2025-05-16,2025-10-11,12.99,42
+1,Chia Seeds,"Nutty flavored chia seeds, packed with nutrients.",2025-06-29,2025-07-07,6.99,96
+1,Self-Inflating Camping Mattress,Comfortable camping mattress that inflates automatically.,2024-11-09,2025-10-13,49.99,65
+1,Spinach and Ricotta Ravioli,Delicious ravioli filled with creamy ricotta and fresh spinach.,2025-10-08,2025-09-19,6.49,39
+1,Memory Foam Pillow,Ergonomic memory foam pillow for better sleep.,2024-11-10,2025-10-13,39.99,66
+1,Action Camera,Compact action camera for capturing adventures.,2025-10-12,2025-08-19,199.99,44
+1,Portable USB-C Monitor,Lightweight and slim monitor ideal for dual-screen setups.,2025-06-25,2025-08-20,199.99,77
+1,Silicone Baking Mat Set,Non-stick and reusable mats for easy baking.,2025-10-06,2025-09-24,24.99,20
+1,Plant Growing Kit,Complete kit for growing herbs indoors.,2025-05-23,2025-07-02,22.99,81
+1,Multi-Function Smartphone Holder,"Versatile holder that can be used on desks, cars, and more.",2025-03-11,,12.99,40
+1,Electric Can Opener,Automatic can opener for easy meal prep.,2025-06-28,2025-10-28,29.99,21
+1,Lemon Garlic Shrimp,"Marinated shrimp in a garlic and lemon sauce, perfect for grilling.",2025-07-09,2025-08-18,8.99,12
+1,Canvas High-Top Sneakers,Trendy high-top canvas sneakers for a stylish streetwear look.,2025-02-06,2025-10-07,49.99,84
+1,Decorative Wall Tapestry,,2025-10-23,2025-10-10,34.99,20
+1,Spaghetti Squash,Low-carb vegetable for pasta alternatives.,2025-08-26,2025-09-13,3.99,28
+1,Wireless Music Receiver,Stream music from your device to any speaker wirelessly.,2025-05-18,2025-09-01,19.99,68
+1,Baked Mac and Cheese,Creamy macaroni and cheese baked to perfection.,2025-04-29,2025-07-09,5.99,66
+1,Cajun Seasoning,Spicy seasoning mix for all your favorite dishes.,2025-08-06,,1.99,100
+1,Biodegradable Dog Waste Bags,Eco-friendly bags for picking up after your pet.,2025-09-28,2025-10-07,14.99,52
+1,Buffalo Stilton Cheese,Spicy blue cheese with a hint of buffalo flavor.,2025-06-26,2025-08-17,8.99,9
+1,Fashionable Scarves Set,Stylish scarves to accessorize any outfit.,2025-10-31,2025-09-11,24.99,49
+1,Teriyaki Chicken Wings,Flavorful chicken wings marinated in a sweet teriyaki glaze.,2025-02-06,2025-08-30,10.99,95
+1,Maple Breakfast Sausage,Savory sausage links with a hint of maple flavor.,2025-05-08,2025-08-09,5.99,75
+1,Children's Garden Tool Set,Colorful and child-friendly gardening tools for little hands.,2025-08-05,2025-07-16,22.99,10
+1,Sweet Potato Fries,"Crispy sweet potato fries, a delicious side dish.",2024-11-07,2025-10-19,3.99,27
+1,Hummus Trio Pack,"A variety pack of classic, roasted red pepper, and garlic hummus.",2025-09-30,2025-07-15,5.49,20
+1,Ginger Tea,A soothing herbal tea made from ginger root.,2024-12-02,2025-07-23,4.99,59
+1,Honeycrisp Apples,"Crisp and sweet Honeycrisp apples, freshly picked.",2025-08-26,2025-07-19,1.89,24
+1,Garlic and Herb Rub,A seasoning blend of garlic and herbs to enhance any dish.,2025-10-13,2025-08-28,2.29,76
+1,Gaming Headset,Comfortable gaming headset with surround sound.,2025-04-28,2025-10-17,69.99,85
+1,Adjustable Dog Harness,Comfortable and adjustable harness for dogs.,2025-01-17,2025-08-11,24.99,36
+1,Roasted Red Pepper Dip,"A blend of roasted red peppers and spices, perfect for dipping.",2025-09-10,2025-08-25,3.29,63
+1,Wooden Toy Train Set,Classic wooden train set for imaginative play.,2024-11-19,2025-10-06,29.99,35
+1,Mini Air Purifier,Battery-operated air purifier for small spaces.,2025-02-23,2025-09-25,49.99,2
+1,Lightweight Travel Backpack,Compact and portable backpack for day trips and travel.,2025-02-13,2025-07-29,39.99,11
+1,Organic Brown Rice Cakes,Light and crunchy rice cakes made from organic brown rice.,2025-07-22,2025-07-18,3.99,68
+1,Pet Waterer with Filtration,Automatic waterer that filters and provides fresh drinking water for pets.,2025-05-03,2025-09-28,39.99,65
+1,Electric Meat Grinder,Powerful grinder for making sausage and burgers at home.,2025-04-17,2025-09-21,89.99,18
+1,Leather Biker Jacket,Stylish black leather jacket featuring a zip-up front and multiple pockets.,2025-06-19,2025-08-18,129.99,67
+1,Chickpea Salad Deluxe,"Chickpeas mixed with fresh vegetables and herbs, a nutritious snack or salad.",2024-12-30,2025-09-08,4.29,50
+1,Chili Con Carne Mix,A spice blend for making flavorful chili con carne.,2025-05-08,2025-08-24,2.99,5
+1,Breathable Face Mask Set,Comfortable and reusable face masks in different styles.,2025-05-07,2025-11-01,14.99,1
+1,Laptop Sleeve,Padded laptop sleeve for protection against scratches.,2025-06-16,2025-08-13,24.99,67
+1,Nordic Berry Smoothie,Frozen smoothie blend with berries for a quick and healthy breakfast.,2025-03-16,2025-11-05,3.99,74
+1,Chocolate Covered Pretzels,,2025-08-18,2025-09-12,3.29,12
+1,Strawberry Rhubarb Jam,"A sweet and tart jam, perfect on toast or in desserts.",2024-12-30,2025-09-13,4.29,20
+1,Coconut Oil,Versatile organic coconut oil for cooking and baking.,2025-09-01,2025-09-26,6.49,43
+1,Asian Stir-Fry Vegetables,Frozen mix of colorful stir-fry veggies.,2025-03-29,2025-09-11,2.99,27
+1,Gardening Tools Set,Complete set of gardening tools for outdoor tasks.,2025-06-27,2025-09-19,45,58
+1,Classic Black Dress,A versatile black dress that can be styled for any occasion.,2025-03-25,2025-08-17,79.99,26
+1,Children's Art Set,All-in-one art set for kids to unleash creativity.,2024-11-23,2025-07-25,34.99,20
+1,Vegetable Stir-Fry Kit,"A mix of fresh vegetables with a savory stir-fry sauce, ready to cook.",2025-07-22,2025-10-13,6.99,41
+1,Puzzle 3D Model Kit,3D model puzzle kit for creative builders.,2025-04-07,2025-08-12,22.99,71
+1,Foldable Yoga Mat,Compact yoga mat that folds for easy storage and transport.,2025-01-03,2025-09-07,29.99,12
+1,Italian Marinara Sauce,"Classic marinara sauce for pasta, pizza, or dipping.",2025-02-28,2025-10-02,3.29,83
+1,Roasted Vegetable Medley,A mix of frozen roasted vegetables for an easy side dish.,2025-03-16,2025-09-09,3.99,7
+1,Luxury Rolling Makeup Case,Stylish and spacious case for makeup and beauty products.,2025-09-02,2025-09-29,99.99,79
+1,Infrared Thermometer,,2025-08-03,2025-09-07,39.99,11
+1,Dog Car Seat Cover,Waterproof cover to protect car seats from pet hair and dirt.,2025-01-11,2025-07-23,39.99,6
+1,Collapsible Folding Chair,Lightweight and portable chair for camping or events.,2025-10-04,2025-08-12,29.99,6
+1,Luminous Night Light,Soft glow night light for children's rooms or bedside.,2024-12-06,,15.99,78
+1,Whole Grain Hamburger Buns,,2025-06-30,2025-08-09,2.69,56
+1,Outdoor Mosquito Repellent Lantern,Lantern that repels mosquitoes while providing light.,2025-09-11,2025-10-25,34.99,53
+1,Pet Grooming Kit,Complete grooming kit for dogs and cats.,2025-09-21,2025-07-11,39.99,68
+1,Chino Shorts,Classic chino shorts in a versatile color for summer adventures.,2024-12-13,2025-10-10,34.99,13
+1,Workstation Laptop Stand,Adjustable stand to improve ergonomics while working on a laptop.,2025-02-16,2025-08-20,49.99,13
+1,Yoga Blocks,Set of two yoga blocks for increased stability and support.,2025-05-15,2025-07-11,29.99,67
+1,Honey Graham Crackers,Sweet and crunchy honey-flavored graham crackers.,2025-05-13,2025-07-08,3.29,85
+1,Energy Bites,Healthy energy bites made with oats and natural sweeteners.,2025-03-01,2025-08-25,3.99,9
+1,Vegetable Curry,A hearty vegetable curry for a quick and satisfying meal.,2025-06-22,2025-07-29,5.99,80
+1,Mini Fondue Set,Complete fondue set for chocolate and cheese parties.,2024-11-09,2025-08-22,34.99,85
+1,Instant Read Meat Thermometer,Fast and accurate thermometer for grilling and cooking.,2025-06-29,2025-09-25,24.99,81
+1,Chocolate Chip Pancake Mix,Easy-to-make pancake mix with chocolate chips included.,2025-07-19,2025-10-21,3.99,1
+1,Kids' STEM Robotics Kit,Educational robotics kit for building and programming.,2025-06-30,2025-08-13,59.99,36
+1,Nail Polish Set,,2024-12-23,2025-09-28,25,99
+1,Non-Stick Baking Sheets,Set of baking sheets for effortless baking.,2025-08-11,,29.99,69
+1,Wild Rice Pilaf,"A mix of wild rice with herbs and spices, ready to serve.",2025-06-21,2025-08-12,3.79,77
+1,Wireless Earbuds,True wireless earbuds with touch control.,2024-11-13,2025-09-25,69.99,19
+1,Corn Tortillas,"Soft and warm corn tortillas, perfect for tacos and burritos.",2024-12-05,2025-07-25,2.49,57
+1,Roasted Red Pepper Dip,"A blend of roasted red peppers and spices, perfect for dipping.",2025-04-22,2025-09-18,3.29,99
+1,Comfy Slippers,Soft and cozy slippers for indoor wear.,2025-10-26,2025-08-02,29.99,40
+1,Almond Milk,"Deliciously creamy almond milk, perfect for smoothies.",2025-10-23,2025-10-01,3.29,14
+1,Kids' Building Blocks,Colorful building blocks for creative play.,2025-01-22,2025-10-30,19.99,96
+1,Organic Tomato Ketchup,"Classic ketchup made from organic tomatoes, no added sugar.",2025-01-13,,3.49,13
+1,Handcrafted Wooden Coasters,Set of unique wooden coasters for drinks and decor.,2024-12-13,2025-08-10,19.99,40
+1,Car Phone Mount,Adjustable phone mount for car dashboard.,2025-06-02,2025-08-24,15.99,94
+1,Kale and Quinoa Salad,"A nutritious salad with kale, quinoa, and a zesty lemon dressing.",2025-01-03,2025-09-30,6.49,73
+1,Outdoor Camping Hammock,Lightweight and durable hammock for relaxing in nature.,2025-04-12,2025-08-22,29.99,40
+1,Mediterranean Chickpea Salad,"A refreshing salad with chickpeas, cucumber, tomatoes, and a light vinaigrette dressing.",2025-01-16,2025-10-31,5.99,67
+1,Blackberry Jam,Delicious homemade style blackberry jam.,2025-10-01,2025-08-17,4.29,78
+1,Creamy Ranch Dressing,Classic ranch dressing for salads and dipping.,2025-07-18,2025-09-24,2.49,69
+1,Teriyaki Stir-Fry Sauce,Savory teriyaki sauce for stir-frying veggies or meats.,2024-11-20,2025-08-18,3.49,3
