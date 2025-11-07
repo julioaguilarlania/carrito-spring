@@ -1,0 +1,12 @@
+databaseChangeLog:
+  - changeSet:
+      author: jaguilar
+      id: datos-clientes-1
+      loadData:
+        tableName: CLIENTES
+        file: clientes_datos.csv
+        relativeToChangelogFile: true
+        columns:
+          - column:
+              header: ID_CLIENTE
+              type: skip

@@ -8,3 +8,6 @@ databaseChangeLog:
   - include:
       file: 20-datos-usuarios.yaml
       relativeToChangelogFile: true
+  - include:
+      file: 20-datos-clientes.yaml
+      relativeToChangelogFile: true
