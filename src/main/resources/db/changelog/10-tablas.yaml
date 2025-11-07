@@ -1,4 +1,9 @@
 databaseChangeLog:
+- property:
+    dbms: h2
+    name: uuid_generator
+    value: "RANDOM_UUID()"
+    global: false
 - changeSet:
     id: 1762455314570-1
     author: jaguilar
@@ -144,6 +149,7 @@ databaseChangeLog:
               primaryKeyName: USUARIOS_PK
             name: ID_USUARIO
             type: UUID
+            defaultValueComputed: ${uuid_generator}
         - column:
             constraints:
               nullable: false
