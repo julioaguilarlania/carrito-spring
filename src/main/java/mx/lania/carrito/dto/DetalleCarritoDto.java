@@ -1,11 +1,9 @@
 package mx.lania.carrito.dto;
 
 import java.math.BigDecimal;
-import java.util.UUID;
 
 public class DetalleCarritoDto {
     private Long idDetalleCarrito;
-    private UUID idCarrito;
     private Long idProducto;
     private Integer cantidad;
     private BigDecimal precio;
@@ -16,14 +14,6 @@ public class DetalleCarritoDto {
 
     public void setIdDetalleCarrito(Long idDetalleCarrito) {
         this.idDetalleCarrito = idDetalleCarrito;
-    }
-
-    public UUID getIdCarrito() {
-        return idCarrito;
-    }
-
-    public void setIdCarrito(UUID idCarrito) {
-        this.idCarrito = idCarrito;
     }
 
     public Long getIdProducto() {

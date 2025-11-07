@@ -22,7 +22,7 @@ public class Carrito {
     private UUID idCarrito;
 
     @Column(name = "id_cliente", nullable = false)
-    private UUID idCliente;
+    private Integer idCliente;
 
     @Column(name = "fecha_creacion")
     private LocalDateTime creacion;
@@ -41,11 +41,11 @@ public class Carrito {
         this.idCarrito = idCarrito;
     }
 
-    public UUID getIdCliente() {
+    public Integer getIdCliente() {
         return idCliente;
     }
 
-    public void setIdCliente(UUID idUsuario) {
+    public void setIdCliente(Integer idUsuario) {
         this.idCliente = idUsuario;
     }
 

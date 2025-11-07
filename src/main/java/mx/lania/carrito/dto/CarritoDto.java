@@ -6,7 +6,6 @@ import java.util.UUID;
 
 public class CarritoDto {
     private UUID idCarrito;
-    private UUID idUsuario;
     private LocalDateTime creacion;
     private LocalDateTime actualizacion;
     private List<DetalleCarritoDto> items;
@@ -17,14 +16,6 @@ public class CarritoDto {
 
     public void setIdCarrito(UUID idCarrito) {
         this.idCarrito = idCarrito;
-    }
-
-    public UUID getIdUsuario() {
-        return idUsuario;
-    }
-
-    public void setIdUsuario(UUID idUsuario) {
-        this.idUsuario = idUsuario;
     }
 
     public LocalDateTime getCreacion() {
