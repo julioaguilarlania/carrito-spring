@@ -5,3 +5,6 @@ databaseChangeLog:
   - include:
       file: 20-datos-productos.yaml
       relativeToChangelogFile: true
+  - include:
+      file: 20-datos-usuarios.yaml
+      relativeToChangelogFile: true
