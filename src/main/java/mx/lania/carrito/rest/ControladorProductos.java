@@ -5,7 +5,6 @@ import java.util.List;
 import java.util.Optional;
 
 import org.springframework.http.ResponseEntity;
-import org.springframework.lang.NonNull;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -34,7 +33,6 @@ public class ControladorProductos {
         return productoService.findAll();
     }
 
-    @SuppressWarnings("null")
     @GetMapping("/{id}")
     public ResponseEntity<ProductoDto> obtenerPorId(@PathVariable Long id) {
         Optional<ProductoDto> opt = productoService.findById(id);
@@ -58,7 +56,7 @@ public class ControladorProductos {
     }
 
     @PutMapping("/{id}")
-    public ResponseEntity<ProductoDto> actualizar(@PathVariable @NonNull Long id, @RequestBody ProductoDto productoDto) {
+    public ResponseEntity<ProductoDto> actualizar(@PathVariable Long id, @RequestBody ProductoDto productoDto) {
         try {
             ProductoDto actualizado = productoService.update(id, productoDto);
             return ResponseEntity.ok(actualizado);
@@ -70,7 +68,7 @@ public class ControladorProductos {
     }
 
     @DeleteMapping("/{id}")
-    public ResponseEntity<Void> eliminar(@PathVariable @NonNull Long id) {
+    public ResponseEntity<Void> eliminar(@PathVariable Long id) {
         boolean borrado = productoService.delete(id);
         if (borrado) {
             return ResponseEntity.noContent().build();

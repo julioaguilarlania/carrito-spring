@@ -3,7 +3,6 @@ package mx.lania.carrito.servicios;
 import java.util.List;
 import java.util.Optional;
 
-import org.springframework.lang.NonNull;
 import org.springframework.stereotype.Service;
 
 import mx.lania.carrito.dto.ProductoDto;
@@ -28,18 +27,17 @@ public class ServicioProductos {
             .toList();
     }
 
-    public Optional<ProductoDto> findById(@NonNull Long id) {
+    public Optional<ProductoDto> findById(Long id) {
         return repo.findById(id).map(mapper::toDto);
     }
 
-    @SuppressWarnings("null")
     public ProductoDto create(ProductoDto productoDto) {
         Producto producto = mapper.toEntity(productoDto);
         Producto guardado = repo.save(producto);
         return mapper.toDto(guardado);
     }
 
-    public ProductoDto update(@NonNull Long id, ProductoDto productoDto) {
+    public ProductoDto update(Long id, ProductoDto productoDto) {
         Optional<Producto> productoExistente = repo.findById(id);
         if (productoExistente.isPresent()) {
             Producto producto = mapper.toEntity(productoDto);
@@ -51,8 +49,7 @@ public class ServicioProductos {
         }
     }
 
-    @SuppressWarnings("null")
-    public boolean delete(@NonNull Long id) {
+    public boolean delete(Long id) {
         Optional<Producto> productoExistente = repo.findById(id);
         if (productoExistente.isPresent()) {
             Producto producto = productoExistente.get();

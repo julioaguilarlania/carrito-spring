@@ -10,6 +10,7 @@ import mx.lania.carrito.entidades.Producto;
 public interface MapperProducto {
     
     ProductoDto toDto(Producto producto);
+    
     @Mapping(target = "fechaCreacion", ignore = true)
     @Mapping(target = "fechaActualizacion", ignore = true)
     Producto toEntity(ProductoDto productoDto);
