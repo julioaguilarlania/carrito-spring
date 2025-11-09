@@ -6,7 +6,6 @@ public class ClienteDto {
     private Long idCliente;
     private String nombres;
     private String apellidos;
-    private String email;
     private UUID idUsuario;
 
     public Long getIdCliente() {
@@ -31,14 +30,6 @@ public class ClienteDto {
 
     public void setApellidos(String apellidos) {
         this.apellidos = apellidos;
-    }
-
-    public String getEmail() {
-        return email;
-    }
-
-    public void setEmail(String email) {
-        this.email = email;
     }
 
     public UUID getIdUsuario() {
