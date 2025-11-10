@@ -36,7 +36,11 @@ public class ControladorProductos {
     @GetMapping("/{id}")
     public ResponseEntity<ProductoDto> obtenerPorId(@PathVariable Long id) {
         Optional<ProductoDto> opt = productoService.findById(id);
-        return ResponseEntity.of(opt);
+        if (opt.isPresent()) {
+            return ResponseEntity.ok(opt.get());
+        } else {
+            return ResponseEntity.notFound().build();
+        }
     }
 
     @PostMapping
