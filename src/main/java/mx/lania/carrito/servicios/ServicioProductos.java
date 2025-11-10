@@ -1,5 +1,6 @@
 package mx.lania.carrito.servicios;
 
+import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Optional;
 
@@ -42,6 +43,8 @@ public class ServicioProductos {
         if (productoExistente.isPresent()) {
             Producto producto = mapper.toEntity(productoDto);
             producto.setIdProducto(id);
+            producto.setFechaCreacion(productoExistente.get().getFechaCreacion());
+            producto.setFechaActualizacion(LocalDateTime.now());
             Producto actualizado = repo.save(producto);
             return mapper.toDto(actualizado);
         } else {
