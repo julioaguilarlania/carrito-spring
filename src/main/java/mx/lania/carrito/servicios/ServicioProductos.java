@@ -6,6 +6,7 @@ import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import mx.lania.carrito.dto.ProductoDto;
 import mx.lania.carrito.entidades.Producto;
@@ -44,12 +45,14 @@ public class ServicioProductos {
             .toList();
     }
 
+    @Transactional
     public ProductoDto create(ProductoDto productoDto) {
         Producto producto = mapper.toEntity(productoDto);
         Producto guardado = repo.save(producto);
         return mapper.toDto(guardado);
     }
 
+    @Transactional
     public ProductoDto update(Long id, ProductoDto productoDto) {
         Optional<Producto> productoExistente = repo.findById(id);
         if (productoExistente.isPresent()) {
@@ -64,6 +67,7 @@ public class ServicioProductos {
         }
     }
 
+    @Transactional
     public boolean delete(Long id) {
         Optional<Producto> productoExistente = repo.findById(id);
         if (productoExistente.isPresent()) {
