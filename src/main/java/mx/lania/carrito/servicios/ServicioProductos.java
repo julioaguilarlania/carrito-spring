@@ -4,6 +4,7 @@ import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Optional;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import mx.lania.carrito.dto.ProductoDto;
@@ -14,13 +15,16 @@ import mx.lania.carrito.repositorios.RepositorioProductos;
 @Service
 public class ServicioProductos {
 
-    private final MapperProducto mapper;
-    private final RepositorioProductos repo;
+    @Autowired
+    private MapperProducto mapper;
+    @Autowired
+    private RepositorioProductos repo;
 
+    /*
     public ServicioProductos(RepositorioProductos repo, MapperProducto mapper) {
         this.mapper = mapper;
         this.repo = repo;
-    }
+    }*/
 
     public List<ProductoDto> findAll() {
         return repo.findAll().stream()
