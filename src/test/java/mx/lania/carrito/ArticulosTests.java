@@ -13,6 +13,7 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 import static org.hamcrest.Matchers.containsString;
+import static org.hamcrest.Matchers.is;
 
 @SpringBootTest
 @DirtiesContext
@@ -50,5 +51,20 @@ public class ArticulosTests {
     void obtenerArticuloPorIdNoEncontrado() throws Exception {
         mockMvc.perform(get("/api/productos/12345"))
             .andExpect(status().isNotFound());
+    }
+
+    @Test
+    void buscarArticulos() throws Exception {
+        mockMvc.perform(get("/api/productos?desc=crispy"))
+            .andExpect(status().isOk())
+            .andExpect(content().contentType(MediaType.APPLICATION_JSON))
+            .andExpect(content().string(containsString("Maple Bacon")));
+    }
+
+    @Test
+    void buscarArticulosSinResultados() throws Exception {
+        mockMvc.perform(get("/api/productos?desc=xyzw"))
+            .andExpect(status().isOk())
+            .andExpect(content().string(is("[]")));
     }
 }

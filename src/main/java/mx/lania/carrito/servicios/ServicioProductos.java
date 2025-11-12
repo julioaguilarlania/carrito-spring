@@ -36,6 +36,14 @@ public class ServicioProductos {
         return repo.findById(id).map(mapper::toDto);
     }
 
+    public List<ProductoDto> buscarPorDescripcion(String termino) {
+        String terminoConComodines = "%" + termino + "%";
+        return repo.buscarPorDescripcion(terminoConComodines)
+            .stream()
+            .map(mapper::toDto)
+            .toList();
+    }
+
     public ProductoDto create(ProductoDto productoDto) {
         Producto producto = mapper.toEntity(productoDto);
         Producto guardado = repo.save(producto);
