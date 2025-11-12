@@ -23,6 +23,13 @@ public class ArticulosTests {
     @Autowired
     MockMvc mockMvc;
 
+    /*
+    // Este constructor seria necesario si queremos quitar Autowired de la propiedad
+    public ArticulosTests(MockMvc mockMvc) {
+        this.mockMvc = mockMvc;
+    }
+    */
+
     @Test
     void listarArticulos() throws Exception {
         mockMvc.perform(get("/api/productos"))
