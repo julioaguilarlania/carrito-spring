@@ -8,12 +8,19 @@ import org.springframework.http.MediaType;
 import org.springframework.test.annotation.DirtiesContext;
 import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.web.servlet.MockMvc;
+import org.springframework.test.web.servlet.MvcResult;
+
+import com.fasterxml.jackson.databind.ObjectMapper;
+
+import mx.lania.carrito.dto.ProductoDto;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.Matchers.is;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 @SpringBootTest
 @DirtiesContext
@@ -67,4 +74,55 @@ public class ArticulosTests {
             .andExpect(status().isOk())
             .andExpect(content().string(is("[]")));
     }
+
+    @Test
+    void guardarArticuloSimple() throws Exception {
+        String nuevoProductoJson = """
+            {
+                "nombre": "Test Product",
+                "descripcion": "This is a test product",
+                "precio": 9.99,
+                "cantidadDisponible": 10
+            }
+            """;
+
+        MvcResult mvcResult = mockMvc.perform(post("/api/productos")
+                    .contentType(MediaType.APPLICATION_JSON)
+                    .content(nuevoProductoJson)
+            )
+            .andExpect(status().isCreated())
+            .andExpect(content().contentType(MediaType.APPLICATION_JSON))
+            .andExpect(content().string(containsString("Producto prueba")))
+            .andExpect(content().string(containsString("Este es un producto de prueba")))
+            .andReturn();
+
+        ObjectMapper mapper = new ObjectMapper();
+        
+        ProductoDto producto = mapper.readValue(mvcResult.getResponse().getContentAsString(), ProductoDto.class);
+        assertNotNull(producto.getIdProducto());
+        mockMvc.perform(get("/api/productos/" + producto.getIdProducto()))
+            .andExpect(status().isOk())
+            .andExpect(content().contentType(MediaType.APPLICATION_JSON))
+            .andExpect(content().string(containsString("Producto prueba")))
+            .andExpect(content().string(containsString("Este es un producto de prueba")));
+        
+    }
+
+    @Test
+    void guardarArticuloIncompleto() throws Exception {   
+        String nuevoProductoJson = """
+            {
+                "nombre": "",
+                "descripcion": "",
+                "precio": -5,
+            }
+            """;
+
+        mockMvc.perform(post("/api/productos")
+                    .contentType(MediaType.APPLICATION_JSON)
+                    .content(nuevoProductoJson)
+            )
+            .andExpect(status().isBadRequest());
+    }
+
 }
