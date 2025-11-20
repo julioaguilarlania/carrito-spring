@@ -47,6 +47,7 @@ public class ServicioProductos {
 
     @Transactional
     public ProductoDto create(ProductoDto productoDto) {
+        productoDto.setIdProducto(null);
         Producto producto = mapper.toEntity(productoDto);
         Producto guardado = repo.save(producto);
         return mapper.toDto(guardado);
