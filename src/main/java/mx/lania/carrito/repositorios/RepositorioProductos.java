@@ -10,7 +10,7 @@ import mx.lania.carrito.entidades.Producto;
 
 public interface RepositorioProductos extends JpaRepository<Producto, Long> {
     
-    @Query(value = "SELECT * FROM PRODUCTOS WHERE DESCRIPCION LIKE :termino", nativeQuery = true)
+    @Query(value = "SELECT * FROM PRODUCTOS WHERE DESCRIPCION ILIKE :termino", nativeQuery = true)
     public List<Producto> buscarPorDescripcion(@Param("termino") String termino);
 
     public List<Producto> findByDescripcionContaining(String termino);
