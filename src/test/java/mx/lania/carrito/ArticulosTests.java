@@ -79,8 +79,8 @@ public class ArticulosTests {
     void guardarArticuloSimple() throws Exception {
         String nuevoProductoJson = """
             {
-                "nombre": "Test Product",
-                "descripcion": "This is a test product",
+                "nombre": "Producto prueba",
+                "descripcion": "Este es un producto de prueba",
                 "precio": 9.99,
                 "cantidadDisponible": 10
             }
@@ -114,7 +114,7 @@ public class ArticulosTests {
             {
                 "nombre": "",
                 "descripcion": "",
-                "precio": -5,
+                "precio": 5.99,
             }
             """;
 
@@ -125,4 +125,39 @@ public class ArticulosTests {
             .andExpect(status().isBadRequest());
     }
 
+    @Test
+    void guardarArticuloSinNombre() throws Exception {   
+        String nuevoProductoJson = """
+            {
+                "nombre": "",
+                "descripcion": "Este es un producto sin nombre",
+                "precio": 5,
+                "cantidadDisponible": 10
+            }
+            """;
+
+        mockMvc.perform(post("/api/productos")
+                    .contentType(MediaType.APPLICATION_JSON)
+                    .content(nuevoProductoJson)
+            )
+            .andExpect(status().isBadRequest());
+    }
+
+    @Test
+    void guardarArticuloSinDescripcion() throws Exception {   
+        String nuevoProductoJson = """
+            {
+                "nombre": "Producto sin descripcion",
+                "descripcion": "",
+                "precio": 5,
+                "cantidadDisponible": 10
+            }
+            """;
+
+        mockMvc.perform(post("/api/productos")
+                    .contentType(MediaType.APPLICATION_JSON)
+                    .content(nuevoProductoJson)
+            )
+            .andExpect(status().isBadRequest());
+    }    
 }
