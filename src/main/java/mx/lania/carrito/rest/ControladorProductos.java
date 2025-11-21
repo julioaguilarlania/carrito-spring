@@ -4,6 +4,8 @@ import java.net.URI;
 import java.util.List;
 import java.util.Optional;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -23,6 +25,9 @@ import mx.lania.carrito.servicios.ServicioProductos;
 @RequestMapping("/api/productos")
 public class ControladorProductos {
 
+
+    private final static Logger LOGGER = LoggerFactory.getLogger(ControladorProductos.class);
+
     private final ServicioProductos productoService;
 
     public ControladorProductos(ServicioProductos productoService) {
@@ -31,15 +36,19 @@ public class ControladorProductos {
 
     @GetMapping
     public List<ProductoDto> listarTodos() {
+        LOGGER.info("listarTodos()");
         return productoService.findAll();
     }
 
     @GetMapping("/{id}")
     public ResponseEntity<ProductoDto> obtenerPorId(@PathVariable Long id) {
+        LOGGER.info("obtenerPorId");
+        LOGGER.trace("id enviado: {}", id);
         Optional<ProductoDto> opt = productoService.findById(id);
         if (opt.isPresent()) {
             return ResponseEntity.ok(opt.get());
         } else {
+            LOGGER.warn("Id {} no encontrado", id);
             return ResponseEntity.notFound().build();
         }
     }
