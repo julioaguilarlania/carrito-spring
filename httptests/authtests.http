@@ -1,0 +1,52 @@
+@host = http://localhost:8080
+
+###
+# Peticion con usuario incorrecto
+POST {{host}}/auth
+Content-Type: application/json
+
+{
+    "usuario":"unknown",
+    "password":"not-important"
+}
+
+###
+# Peticion con usuario correcto pero password incorrecto
+POST {{host}}/auth
+Content-Type: application/json
+
+{
+    "usuario":"julio.aguilar@lania.edu.mx",
+    "password":"not-important"
+}
+
+###
+# Peticion correcta de ADMINISTRADOR
+# @name token_request
+POST {{host}}/auth
+Content-Type: application/json
+
+{
+    "usuario":"julio.aguilar@lania.edu.mx",
+    "password":"admin"
+}
+
+###
+@token = {{ token_request.response.body.jwt }}
+GET {{host}}/api/productos/19
+Authorization: Bearer {{token}}
+
+###
+# @name token_request
+POST {{host}}/auth
+Content-Type: application/json
+
+{
+    "usuario":"cliente01@lania.edu.mx",
+    "password":"cliente01"
+}
+
+###
+@token = {{ token_request.response.body.jwt }}
+GET {{host}}/api/admin/saludar
+Authorization: Bearer {{token}}
