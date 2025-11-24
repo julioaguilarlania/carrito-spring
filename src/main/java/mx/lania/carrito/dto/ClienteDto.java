@@ -3,16 +3,16 @@ package mx.lania.carrito.dto;
 import java.util.UUID;
 
 public class ClienteDto {
-    private Long idCliente;
+    private UUID idCliente;
     private String nombres;
     private String apellidos;
     private UUID idUsuario;
 
-    public Long getIdCliente() {
+    public UUID getIdCliente() {
         return idCliente;
     }
 
-    public void setIdCliente(Long idCliente) {
+    public void setIdCliente(UUID idCliente) {
         this.idCliente = idCliente;
     }
 

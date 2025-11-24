@@ -15,8 +15,8 @@ import jakarta.persistence.Table;
 public class Cliente {
     @Id
     @Column(name = "id_cliente")
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long idCliente;
+    @GeneratedValue(strategy = GenerationType.UUID)
+    private UUID idCliente;
 
     @Column(name = "nombres", nullable = false, length = 100)
     private String nombres;
@@ -33,11 +33,11 @@ public class Cliente {
     @Column(name = "fecha_actualizacion")
     private LocalDateTime fechaActualizacion;
 
-    public Long getIdCliente() {
+    public UUID getIdCliente() {
         return idCliente;
     }
 
-    public void setIdCliente(Long idCliente) {
+    public void setIdCliente(UUID idCliente) {
         this.idCliente = idCliente;
     }
 
