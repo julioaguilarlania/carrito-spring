@@ -7,11 +7,18 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import java.time.Instant;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
 import java.util.UUID;
+
+import org.springframework.security.core.GrantedAuthority;
+import org.springframework.security.core.authority.SimpleGrantedAuthority;
+import org.springframework.security.core.userdetails.UserDetails;
 
 @Entity
 @Table(name="usuarios")
-public class Usuario {
+public class Usuario implements UserDetails {
     @Id
     @Column(name="id_usuario")
     @GeneratedValue(strategy = GenerationType.UUID)
@@ -22,6 +29,9 @@ public class Usuario {
 
     @Column(name="password_hash", nullable = false, length = 255)
     private String passwordHash;
+
+    @Column(name="rol", nullable = false)
+    private String rol;
 
     @Column(name="activo", nullable = false)
     private Boolean activo;
@@ -53,6 +63,14 @@ public class Usuario {
         this.passwordHash = passwordHash;
     }
 
+    public String getRol() {
+        return rol;
+    }
+
+    public void setRol(String rol) {
+        this.rol = rol;
+    }
+
     public Boolean getActivo() {
         return activo;
     }
@@ -67,6 +85,24 @@ public class Usuario {
 
     public void setUltimoAcceso(Instant ultimoAcceso) {
         this.ultimoAcceso = ultimoAcceso;
+    }
+
+    @Override
+    public Collection<? extends GrantedAuthority> getAuthorities() {
+        List<GrantedAuthority> auths = new ArrayList<>();
+        auths.add(new SimpleGrantedAuthority(rol));
+        return auths;
+    }
+
+    @Override
+    public String getPassword() {
+        return this.passwordHash;
+    }
+
+    @Override
+    public String getUsername() {
+
+        return this.email;
     }
     
     
