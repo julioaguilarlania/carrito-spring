@@ -1,0 +1,20 @@
+databaseChangeLog:
+  - changeSet:
+      author: jaguilar
+      id: admin-1
+      changes:
+        - insert:
+            tableName: USUARIOS
+            columns:
+              - column:
+                  name: EMAIL
+                  value: cliente01@lania.edu.mx
+              - column:
+                  name: ROL
+                  value: CLIENTE
+              - column:
+                  name: PASSWORD_HASH
+                  value: $2a$10$U2VTk2Dvjm6oeDdZ.tOUYOnd6WM2QqBFHRhem8L1jeB0RGvNXA7wq
+              - column:
+                  name: ACTIVO
+                  value: true

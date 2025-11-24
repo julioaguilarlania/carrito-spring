@@ -1,0 +1,17 @@
+databaseChangeLog:
+  - changeSet:
+      author: jaguilar
+      id: usuarios-rol-1
+      changes:
+        - addColumn:
+            tableName: USUARIOS
+            columns:
+              - column:
+                  name: ROL
+                  type: VARCHAR(20)
+        - update:
+            tableName: USUARIOS
+            columns:
+              - column:
+                  name: ROL
+                  value: CLIENTE
