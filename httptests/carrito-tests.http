@@ -1,0 +1,30 @@
+@host = http://localhost:8080
+
+###
+# @name token_request
+POST {{host}}/auth
+Content-Type: application/json
+
+{
+    "usuario":"cliente01@lania.edu.mx",
+    "password":"cliente01"
+}
+
+###
+@token = {{ token_request.response.body.jwt }}
+POST {{host}}/api/carritos
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+    "items": [
+        {
+            "idProducto": 19,
+            "cantidad": 2
+        },
+        {
+            "idProducto": 20,
+            "cantidad": 1
+        }
+    ]
+}
