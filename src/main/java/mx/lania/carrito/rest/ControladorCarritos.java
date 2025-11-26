@@ -6,6 +6,8 @@ import java.net.URI;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -13,6 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import mx.lania.carrito.dto.CarritoDto;
+import mx.lania.carrito.dto.DetalleCarritoDto;
 import mx.lania.carrito.servicios.ServicioCarritos;
 
 @RestController
@@ -37,12 +40,47 @@ public class ControladorCarritos {
                 .toUri();
             return ResponseEntity.created(location).body(creado);
         }
-        catch(Exception e) {
-            LOGGER.error("Error al crear el carrito", e);
+        catch(Exception ex) {
+            LOGGER.error("Error al crear el carrito", ex);
             return ResponseEntity.badRequest()
-                .header("ERROR", e.getMessage().replaceAll("\\R", " "))
+                .header("ERROR", ex.getMessage().replaceAll("\\R", " "))
                 .build();
         }
         
     }
+
+    @PostMapping("/detalles")
+    public ResponseEntity<DetalleCarritoDto> agregarProducto(@RequestBody DetalleCarritoDto detalle) {
+        try {
+            DetalleCarritoDto detalleGuardado = servicioCarritos.agregarProducto(detalle);
+            return ResponseEntity.ok(detalleGuardado);
+        }
+        catch(Exception ex) {
+            LOGGER.error("Error al agregar producto al carrito", ex);
+            return ResponseEntity.badRequest()
+                .build();
+        }
+    }
+
+    @DeleteMapping("/detalles/{id}")
+    public ResponseEntity quitarProducto(@PathVariable Long idDetalle, @RequestBody DetalleCarritoDto detalle) {
+        try {
+            if (idDetalle != null && idDetalle > 0) {
+                detalle.setIdDetalleCarrito(idDetalle);
+            }
+            boolean eliminado = servicioCarritos.quitarProducto(detalle);
+            if (eliminado) {
+                return ResponseEntity.ok().build();
+            }
+            else {
+                return ResponseEntity.notFound().build();
+            }
+        }
+        catch(Exception ex) {
+            LOGGER.error("Error al agregar producto al carrito", ex);
+            return ResponseEntity.badRequest()
+                .build();
+        }
+    }
+    
 }
