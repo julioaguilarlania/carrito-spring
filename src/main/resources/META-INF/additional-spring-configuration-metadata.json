@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "mapstruct.base-packages",
+    "type": "java.lang.String",
+    "description": "Paquete base donde estan los Mappers de mapstruct"
+  },
+  {
+    "name": "jwt.llave",
+    "type": "java.lang.String",
+    "description": "Llave para encriptar los JWT"
+  },
+  {
+    "name": "jwt.minutos-duracion",
+    "type": "java.lang.Integer",
+    "description": "Periodo de expiracion de los JWT"
+  }
+]}
