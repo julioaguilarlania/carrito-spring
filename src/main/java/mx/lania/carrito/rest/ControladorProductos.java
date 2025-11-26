@@ -67,9 +67,12 @@ public class ControladorProductos {
                 .buildAndExpand(creado.getIdProducto())
                 .toUri();
             return ResponseEntity.created(location).body(creado);
-        } catch (IllegalArgumentException e) {
+        } catch (Exception e) {
+            LOGGER.debug("Error al crear el producto", e);
             return ResponseEntity.badRequest()
-                .header("ERROR", e.getMessage())
+                .header("ERROR", e.getMessage()
+                    .replaceAll("\\R", " ")
+                    .replaceAll("[^A-Za-z]"," "))
                 .build();
         }
     }
@@ -81,7 +84,7 @@ public class ControladorProductos {
             return ResponseEntity.ok(actualizado);
         } catch (Exception e) {
             return ResponseEntity.badRequest()
-                .header("ERROR", e.getMessage())
+                .header("ERROR", e.getMessage().replaceAll("\\R", " "))
                 .build();
         }
     }
