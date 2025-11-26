@@ -4,8 +4,10 @@ import java.time.LocalDateTime;
 import java.util.List;
 import java.util.UUID;
 
+import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
+import jakarta.persistence.FetchType;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
@@ -22,7 +24,7 @@ public class Carrito {
     private UUID idCarrito;
 
     @Column(name = "id_cliente", nullable = false)
-    private Integer idCliente;
+    private UUID idCliente;
 
     @Column(name = "fecha_creacion")
     private LocalDateTime creacion;
@@ -30,7 +32,7 @@ public class Carrito {
     @Column(name = "fecha_actualizacion")
     private LocalDateTime actualizacion;
     
-    @OneToMany(mappedBy = "carrito")
+    @OneToMany(mappedBy = "carrito", fetch = FetchType.EAGER, cascade = CascadeType.ALL, orphanRemoval = true)
     private List<DetalleCarrito> items;
 
     public UUID getIdCarrito() {
@@ -41,11 +43,11 @@ public class Carrito {
         this.idCarrito = idCarrito;
     }
 
-    public Integer getIdCliente() {
+    public UUID getIdCliente() {
         return idCliente;
     }
 
-    public void setIdCliente(Integer idUsuario) {
+    public void setIdCliente(UUID idUsuario) {
         this.idCliente = idUsuario;
     }
 
